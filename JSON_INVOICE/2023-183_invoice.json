@@ -1,0 +1,37 @@
+{
+    "invoice_id": "FACT-2023-183",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Schoolstraat 256",
+        "postcode": "5641 AB",
+        "stad": "Utrecht",
+        "KVK-nummer": "59025769"
+    },
+    "invoice_date": "16-10-2020",
+    "products": [
+        {
+            "product_name": "Logitech gaming mouse G502 LIGHTSPEED",
+            "quantity": 5,
+            "unit_price_excl_vat": 406.61,
+            "total_price_excl_vat": 2033.0500000000002,
+            "vat_amount": 1736.02
+        },
+        {
+            "product_name": "HP EliteDisplay E223",
+            "quantity": 3,
+            "unit_price_excl_vat": 234.38,
+            "total_price_excl_vat": 703.14,
+            "vat_amount": 346.09
+        },
+        {
+            "product_name": "MSI AERO 32G OC",
+            "quantity": 5,
+            "unit_price_excl_vat": 254.65,
+            "total_price_excl_vat": 1273.25,
+            "vat_amount": 680.93
+        }
+    ],
+    "subtotal": 4009.44,
+    "vat": 2763.04,
+    "total": 6772.48
+}

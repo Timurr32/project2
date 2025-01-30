@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2004-089",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Schoolstraat 419",
+        "postcode": "5350 AB",
+        "stad": "Amsterdam",
+        "KVK-nummer": "82396413"
+    },
+    "invoice_date": "11-11-2021",
+    "products": [
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 5,
+            "unit_price_excl_vat": 478.65,
+            "total_price_excl_vat": 2393.25,
+            "vat_amount": 2405.69
+        }
+    ],
+    "subtotal": 2393.25,
+    "vat": 2405.69,
+    "total": 4798.9400000000005
+}

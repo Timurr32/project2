@@ -1,0 +1,37 @@
+{
+    "invoice_id": "FACT-2019-193",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Kerkstraat 202",
+        "postcode": "5015 AA",
+        "stad": "Utrecht",
+        "KVK-nummer": "86170515"
+    },
+    "invoice_date": "03-02-2022",
+    "products": [
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 2,
+            "unit_price_excl_vat": 97.29,
+            "total_price_excl_vat": 194.58,
+            "vat_amount": 39.75
+        },
+        {
+            "product_name": "HP EliteDisplay E243",
+            "quantity": 3,
+            "unit_price_excl_vat": 17.7,
+            "total_price_excl_vat": 53.099999999999994,
+            "vat_amount": 1.98
+        },
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 5,
+            "unit_price_excl_vat": 255.43,
+            "total_price_excl_vat": 1277.15,
+            "vat_amount": 685.06
+        }
+    ],
+    "subtotal": 1524.8300000000002,
+    "vat": 726.79,
+    "total": 2251.62
+}

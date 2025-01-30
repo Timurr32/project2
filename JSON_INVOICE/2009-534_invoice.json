@@ -1,0 +1,37 @@
+{
+    "invoice_id": "FACT-2009-534",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Hoofdstraat 184",
+        "postcode": "8551 AA",
+        "stad": "Utrecht",
+        "KVK-nummer": "24382529"
+    },
+    "invoice_date": "06-04-2023",
+    "products": [
+        {
+            "product_name": "MSI AERO 64G OC",
+            "quantity": 1,
+            "unit_price_excl_vat": 74.16,
+            "total_price_excl_vat": 74.16,
+            "vat_amount": 11.55
+        },
+        {
+            "product_name": "HP EliteDisplay E243",
+            "quantity": 4,
+            "unit_price_excl_vat": 21.7,
+            "total_price_excl_vat": 86.8,
+            "vat_amount": 3.96
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 1,
+            "unit_price_excl_vat": 140.45,
+            "total_price_excl_vat": 140.45,
+            "vat_amount": 41.42
+        }
+    ],
+    "subtotal": 301.40999999999997,
+    "vat": 56.93000000000001,
+    "total": 358.34
+}

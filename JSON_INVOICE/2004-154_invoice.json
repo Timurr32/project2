@@ -1,0 +1,51 @@
+{
+    "invoice_id": "FACT-2004-154",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Hoofdstraat 924",
+        "postcode": "9130 AC",
+        "stad": "Amsterdam",
+        "KVK-nummer": "27384004"
+    },
+    "invoice_date": "04-09-2022",
+    "products": [
+        {
+            "product_name": "Razor gaming keyboard ULTIMATE",
+            "quantity": 5,
+            "unit_price_excl_vat": 294.07,
+            "total_price_excl_vat": 1470.35,
+            "vat_amount": 907.94
+        },
+        {
+            "product_name": "Logitech gaming mouse G502 LIGHTSPEED",
+            "quantity": 2,
+            "unit_price_excl_vat": 492.88,
+            "total_price_excl_vat": 985.76,
+            "vat_amount": 1020.26
+        },
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 2,
+            "unit_price_excl_vat": 43.13,
+            "total_price_excl_vat": 86.26,
+            "vat_amount": 7.82
+        },
+        {
+            "product_name": "MSI AERO 64G OC",
+            "quantity": 2,
+            "unit_price_excl_vat": 108.91,
+            "total_price_excl_vat": 217.82,
+            "vat_amount": 49.82
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 5,
+            "unit_price_excl_vat": 10.36,
+            "total_price_excl_vat": 51.8,
+            "vat_amount": 1.13
+        }
+    ],
+    "subtotal": 2811.9900000000002,
+    "vat": 1986.97,
+    "total": 4798.96
+}

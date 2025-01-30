@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2004-183",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Schoolstraat 976",
+        "postcode": "3205 AB",
+        "stad": "Rotterdam",
+        "KVK-nummer": "80568003"
+    },
+    "invoice_date": "12-12-2023",
+    "products": [
+        {
+            "product_name": "Razor gaming keyboard ULTIMATE",
+            "quantity": 5,
+            "unit_price_excl_vat": 137.49,
+            "total_price_excl_vat": 687.45,
+            "vat_amount": 198.47
+        }
+    ],
+    "subtotal": 687.45,
+    "vat": 198.47,
+    "total": 885.9200000000001
+}

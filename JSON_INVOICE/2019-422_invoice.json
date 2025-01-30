@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2019-422",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Hoofdstraat 579",
+        "postcode": "9894 AB",
+        "stad": "Rotterdam",
+        "KVK-nummer": "11636995"
+    },
+    "invoice_date": "01-07-2022",
+    "products": [
+        {
+            "product_name": "MSI AERO 32G OC",
+            "quantity": 4,
+            "unit_price_excl_vat": 209.75,
+            "total_price_excl_vat": 839.0,
+            "vat_amount": 369.58
+        }
+    ],
+    "subtotal": 839.0,
+    "vat": 369.58,
+    "total": 1208.58
+}

@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2003-163",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Hoofdstraat 821",
+        "postcode": "2696 AA",
+        "stad": "Amsterdam",
+        "KVK-nummer": "16613029"
+    },
+    "invoice_date": "01-03-2021",
+    "products": [
+        {
+            "product_name": "HP EliteDisplay E233",
+            "quantity": 4,
+            "unit_price_excl_vat": 462.62,
+            "total_price_excl_vat": 1850.48,
+            "vat_amount": 1797.74
+        }
+    ],
+    "subtotal": 1850.48,
+    "vat": 1797.74,
+    "total": 3648.2200000000003
+}

@@ -1,0 +1,30 @@
+{
+    "invoice_id": "FACT-2000-153",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Schoolstraat 956",
+        "postcode": "1723 AA",
+        "stad": "Utrecht",
+        "KVK-nummer": "41150424"
+    },
+    "invoice_date": "10-07-2021",
+    "products": [
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 4,
+            "unit_price_excl_vat": 406.3,
+            "total_price_excl_vat": 1625.2,
+            "vat_amount": 1386.62
+        },
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 2,
+            "unit_price_excl_vat": 177.31,
+            "total_price_excl_vat": 354.62,
+            "vat_amount": 132.06
+        }
+    ],
+    "subtotal": 1979.8200000000002,
+    "vat": 1518.6799999999998,
+    "total": 3498.5
+}

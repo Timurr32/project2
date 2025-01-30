@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2021-526",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Hoofdstraat 66",
+        "postcode": "6626 AC",
+        "stad": "Utrecht",
+        "KVK-nummer": "41399056"
+    },
+    "invoice_date": "05-10-2022",
+    "products": [
+        {
+            "product_name": "Lenovo Thinkpad T14",
+            "quantity": 3,
+            "unit_price_excl_vat": 343.76,
+            "total_price_excl_vat": 1031.28,
+            "vat_amount": 744.48
+        }
+    ],
+    "subtotal": 1031.28,
+    "vat": 744.48,
+    "total": 1775.76
+}

@@ -1,0 +1,51 @@
+{
+    "invoice_id": "FACT-2000-879",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Schoolstraat 859",
+        "postcode": "3973 AA",
+        "stad": "Rotterdam",
+        "KVK-nummer": "96383439"
+    },
+    "invoice_date": "28-11-2020",
+    "products": [
+        {
+            "product_name": "HP EliteDisplay E243",
+            "quantity": 5,
+            "unit_price_excl_vat": 351.97,
+            "total_price_excl_vat": 1759.8500000000001,
+            "vat_amount": 1300.71
+        },
+        {
+            "product_name": "HP EliteDisplay E223",
+            "quantity": 2,
+            "unit_price_excl_vat": 459.57,
+            "total_price_excl_vat": 919.14,
+            "vat_amount": 887.06
+        },
+        {
+            "product_name": "HP EliteDisplay E243",
+            "quantity": 1,
+            "unit_price_excl_vat": 323.74,
+            "total_price_excl_vat": 323.74,
+            "vat_amount": 220.11
+        },
+        {
+            "product_name": "Lenovo Thinkpad T15",
+            "quantity": 5,
+            "unit_price_excl_vat": 274.44,
+            "total_price_excl_vat": 1372.2,
+            "vat_amount": 790.8
+        },
+        {
+            "product_name": "HP EliteDisplay E233",
+            "quantity": 4,
+            "unit_price_excl_vat": 452.48,
+            "total_price_excl_vat": 1809.92,
+            "vat_amount": 1719.79
+        }
+    ],
+    "subtotal": 6184.85,
+    "vat": 4918.47,
+    "total": 11103.32
+}

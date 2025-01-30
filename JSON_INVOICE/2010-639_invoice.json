@@ -1,0 +1,30 @@
+{
+    "invoice_id": "FACT-2010-639",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Hoofdstraat 342",
+        "postcode": "7635 AC",
+        "stad": "Utrecht",
+        "KVK-nummer": "80772145"
+    },
+    "invoice_date": "24-09-2023",
+    "products": [
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 4,
+            "unit_price_excl_vat": 132.34,
+            "total_price_excl_vat": 529.36,
+            "vat_amount": 147.11
+        },
+        {
+            "product_name": "Logitech gaming mouse G502",
+            "quantity": 1,
+            "unit_price_excl_vat": 142.93,
+            "total_price_excl_vat": 142.93,
+            "vat_amount": 42.91
+        }
+    ],
+    "subtotal": 672.29,
+    "vat": 190.02,
+    "total": 862.31
+}

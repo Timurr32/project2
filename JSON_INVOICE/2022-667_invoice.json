@@ -1,0 +1,51 @@
+{
+    "invoice_id": "FACT-2022-667",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Schoolstraat 300",
+        "postcode": "6327 AC",
+        "stad": "Amsterdam",
+        "KVK-nummer": "48857077"
+    },
+    "invoice_date": "14-01-2023",
+    "products": [
+        {
+            "product_name": "Dell UltraSharp U2719DC",
+            "quantity": 3,
+            "unit_price_excl_vat": 223.57,
+            "total_price_excl_vat": 670.71,
+            "vat_amount": 314.9
+        },
+        {
+            "product_name": "Razor gaming keyboard ULTIMATE",
+            "quantity": 2,
+            "unit_price_excl_vat": 327.76,
+            "total_price_excl_vat": 655.52,
+            "vat_amount": 451.19
+        },
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 3,
+            "unit_price_excl_vat": 316.95,
+            "total_price_excl_vat": 950.8499999999999,
+            "vat_amount": 632.89
+        },
+        {
+            "product_name": "HP EliteDisplay E223",
+            "quantity": 2,
+            "unit_price_excl_vat": 421.65,
+            "total_price_excl_vat": 843.3,
+            "vat_amount": 746.74
+        },
+        {
+            "product_name": "Lenovo Thinkpad T14",
+            "quantity": 3,
+            "unit_price_excl_vat": 74.42,
+            "total_price_excl_vat": 223.26,
+            "vat_amount": 34.9
+        }
+    ],
+    "subtotal": 3343.6400000000003,
+    "vat": 2180.6200000000003,
+    "total": 5524.26
+}

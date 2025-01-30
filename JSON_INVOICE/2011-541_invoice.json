@@ -1,0 +1,30 @@
+{
+    "invoice_id": "FACT-2011-541",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Schoolstraat 252",
+        "postcode": "2877 AA",
+        "stad": "Amsterdam",
+        "KVK-nummer": "12198875"
+    },
+    "invoice_date": "25-01-2023",
+    "products": [
+        {
+            "product_name": "MSI AERO 64G OC",
+            "quantity": 4,
+            "unit_price_excl_vat": 302.5,
+            "total_price_excl_vat": 1210.0,
+            "vat_amount": 768.59
+        },
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 3,
+            "unit_price_excl_vat": 87.71,
+            "total_price_excl_vat": 263.13,
+            "vat_amount": 48.47
+        }
+    ],
+    "subtotal": 1473.13,
+    "vat": 817.0600000000001,
+    "total": 2290.19
+}

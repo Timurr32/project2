@@ -1,0 +1,30 @@
+{
+    "invoice_id": "FACT-2016-061",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Kerkstraat 202",
+        "postcode": "7452 AA",
+        "stad": "Utrecht",
+        "KVK-nummer": "90698788"
+    },
+    "invoice_date": "14-02-2021",
+    "products": [
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 3,
+            "unit_price_excl_vat": 17.52,
+            "total_price_excl_vat": 52.56,
+            "vat_amount": 1.93
+        },
+        {
+            "product_name": "MSI AERO 32G OC",
+            "quantity": 3,
+            "unit_price_excl_vat": 119.03,
+            "total_price_excl_vat": 357.09000000000003,
+            "vat_amount": 89.27
+        }
+    ],
+    "subtotal": 409.65000000000003,
+    "vat": 91.2,
+    "total": 500.85
+}

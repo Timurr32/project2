@@ -1,0 +1,51 @@
+{
+    "invoice_id": "FACT-2019-459",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Schoolstraat 854",
+        "postcode": "9736 AA",
+        "stad": "Utrecht",
+        "KVK-nummer": "89936328"
+    },
+    "invoice_date": "15-06-2023",
+    "products": [
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 5,
+            "unit_price_excl_vat": 436.46,
+            "total_price_excl_vat": 2182.2999999999997,
+            "vat_amount": 2000.3
+        },
+        {
+            "product_name": "HP EliteDisplay E243",
+            "quantity": 2,
+            "unit_price_excl_vat": 450.09,
+            "total_price_excl_vat": 900.18,
+            "vat_amount": 850.85
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 2,
+            "unit_price_excl_vat": 429.94,
+            "total_price_excl_vat": 859.88,
+            "vat_amount": 776.39
+        },
+        {
+            "product_name": "Dell UltraSharp U2719DC",
+            "quantity": 5,
+            "unit_price_excl_vat": 326.11,
+            "total_price_excl_vat": 1630.5500000000002,
+            "vat_amount": 1116.6
+        },
+        {
+            "product_name": "Lenovo Thinkpad T14",
+            "quantity": 4,
+            "unit_price_excl_vat": 438.83,
+            "total_price_excl_vat": 1755.32,
+            "vat_amount": 1617.53
+        }
+    ],
+    "subtotal": 7328.23,
+    "vat": 6361.669999999999,
+    "total": 13689.899999999998
+}

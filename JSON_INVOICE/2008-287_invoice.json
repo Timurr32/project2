@@ -1,0 +1,30 @@
+{
+    "invoice_id": "FACT-2008-287",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Schoolstraat 847",
+        "postcode": "5031 AA",
+        "stad": "Amsterdam",
+        "KVK-nummer": "83006818"
+    },
+    "invoice_date": "20-10-2021",
+    "products": [
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 4,
+            "unit_price_excl_vat": 278.11,
+            "total_price_excl_vat": 1112.44,
+            "vat_amount": 649.66
+        },
+        {
+            "product_name": "MSI AERO 64G OC",
+            "quantity": 3,
+            "unit_price_excl_vat": 88.91,
+            "total_price_excl_vat": 266.73,
+            "vat_amount": 49.8
+        }
+    ],
+    "subtotal": 1379.17,
+    "vat": 699.4599999999999,
+    "total": 2078.63
+}

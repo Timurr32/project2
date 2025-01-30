@@ -1,0 +1,37 @@
+{
+    "invoice_id": "FACT-2010-841",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Schoolstraat 193",
+        "postcode": "6638 AC",
+        "stad": "Amsterdam",
+        "KVK-nummer": "52836856"
+    },
+    "invoice_date": "05-03-2022",
+    "products": [
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 3,
+            "unit_price_excl_vat": 204.26,
+            "total_price_excl_vat": 612.78,
+            "vat_amount": 262.82
+        },
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 2,
+            "unit_price_excl_vat": 326.93,
+            "total_price_excl_vat": 653.86,
+            "vat_amount": 448.94
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 5,
+            "unit_price_excl_vat": 98.01,
+            "total_price_excl_vat": 490.05,
+            "vat_amount": 100.85
+        }
+    ],
+    "subtotal": 1756.6899999999998,
+    "vat": 812.61,
+    "total": 2569.2999999999997
+}

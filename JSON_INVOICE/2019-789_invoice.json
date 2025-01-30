@@ -1,0 +1,37 @@
+{
+    "invoice_id": "FACT-2019-789",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Hoofdstraat 752",
+        "postcode": "8704 AA",
+        "stad": "Rotterdam",
+        "KVK-nummer": "46292977"
+    },
+    "invoice_date": "25-08-2024",
+    "products": [
+        {
+            "product_name": "Dell UltraSharp U2419H",
+            "quantity": 1,
+            "unit_price_excl_vat": 420.17,
+            "total_price_excl_vat": 420.17,
+            "vat_amount": 370.76
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 3,
+            "unit_price_excl_vat": 37.79,
+            "total_price_excl_vat": 113.37,
+            "vat_amount": 9.0
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 4,
+            "unit_price_excl_vat": 44.68,
+            "total_price_excl_vat": 178.72,
+            "vat_amount": 16.76
+        }
+    ],
+    "subtotal": 712.26,
+    "vat": 396.52,
+    "total": 1108.78
+}

@@ -1,0 +1,51 @@
+{
+    "invoice_id": "FACT-2018-103",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Kerkstraat 709",
+        "postcode": "7879 AC",
+        "stad": "Amsterdam",
+        "KVK-nummer": "39248596"
+    },
+    "invoice_date": "26-11-2023",
+    "products": [
+        {
+            "product_name": "Logitech gaming mouse G502 LIGHTSPEED",
+            "quantity": 5,
+            "unit_price_excl_vat": 283.87,
+            "total_price_excl_vat": 1419.35,
+            "vat_amount": 846.07
+        },
+        {
+            "product_name": "Logitech gaming mouse G502 HERO",
+            "quantity": 3,
+            "unit_price_excl_vat": 88.0,
+            "total_price_excl_vat": 264.0,
+            "vat_amount": 48.79
+        },
+        {
+            "product_name": "Logitech gaming mouse G502",
+            "quantity": 1,
+            "unit_price_excl_vat": 374.37,
+            "total_price_excl_vat": 374.37,
+            "vat_amount": 294.33
+        },
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 3,
+            "unit_price_excl_vat": 41.06,
+            "total_price_excl_vat": 123.18,
+            "vat_amount": 10.62
+        },
+        {
+            "product_name": "HP EliteDisplay E243",
+            "quantity": 3,
+            "unit_price_excl_vat": 463.44,
+            "total_price_excl_vat": 1390.32,
+            "vat_amount": 1353.06
+        }
+    ],
+    "subtotal": 3571.2199999999993,
+    "vat": 2552.87,
+    "total": 6124.089999999999
+}

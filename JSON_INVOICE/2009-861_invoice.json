@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2009-861",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Kerkstraat 173",
+        "postcode": "1544 AC",
+        "stad": "Rotterdam",
+        "KVK-nummer": "88914649"
+    },
+    "invoice_date": "10-10-2022",
+    "products": [
+        {
+            "product_name": "Razor gaming keyboard",
+            "quantity": 2,
+            "unit_price_excl_vat": 410.81,
+            "total_price_excl_vat": 821.62,
+            "vat_amount": 708.81
+        },
+        {
+            "product_name": "Logitech gaming mouse G502 LIGHTSPEED",
+            "quantity": 3,
+            "unit_price_excl_vat": 352.95,
+            "total_price_excl_vat": 1058.85,
+            "vat_amount": 784.82
+        },
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 5,
+            "unit_price_excl_vat": 347.56,
+            "total_price_excl_vat": 1737.8,
+            "vat_amount": 1268.42
+        },
+        {
+            "product_name": "Dell UltraSharp U2419H",
+            "quantity": 1,
+            "unit_price_excl_vat": 108.73,
+            "total_price_excl_vat": 108.73,
+            "vat_amount": 24.82
+        }
+    ],
+    "subtotal": 3726.9999999999995,
+    "vat": 2786.8700000000003,
+    "total": 6513.87
+}

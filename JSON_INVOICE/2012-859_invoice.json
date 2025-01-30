@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2012-859",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Schoolstraat 145",
+        "postcode": "8843 AC",
+        "stad": "Amsterdam",
+        "KVK-nummer": "89943200"
+    },
+    "invoice_date": "11-01-2020",
+    "products": [
+        {
+            "product_name": "Logitech gaming mouse G502 HERO",
+            "quantity": 1,
+            "unit_price_excl_vat": 283.55,
+            "total_price_excl_vat": 283.55,
+            "vat_amount": 168.85
+        }
+    ],
+    "subtotal": 283.55,
+    "vat": 168.85,
+    "total": 452.4
+}

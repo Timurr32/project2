@@ -1,0 +1,37 @@
+{
+    "invoice_id": "FACT-2010-766",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Kerkstraat 110",
+        "postcode": "3811 AC",
+        "stad": "Utrecht",
+        "KVK-nummer": "25939304"
+    },
+    "invoice_date": "27-10-2024",
+    "products": [
+        {
+            "product_name": "Lenovo Thinkpad T14s",
+            "quantity": 3,
+            "unit_price_excl_vat": 272.31,
+            "total_price_excl_vat": 816.9300000000001,
+            "vat_amount": 467.2
+        },
+        {
+            "product_name": "Dell UltraSharp U2719DC",
+            "quantity": 1,
+            "unit_price_excl_vat": 112.53,
+            "total_price_excl_vat": 112.53,
+            "vat_amount": 26.59
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 4,
+            "unit_price_excl_vat": 332.92,
+            "total_price_excl_vat": 1331.68,
+            "vat_amount": 930.98
+        }
+    ],
+    "subtotal": 2261.1400000000003,
+    "vat": 1424.77,
+    "total": 3685.9100000000003
+}

@@ -1,0 +1,37 @@
+{
+    "invoice_id": "FACT-2004-563",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Hoofdstraat 5",
+        "postcode": "9770 AC",
+        "stad": "Utrecht",
+        "KVK-nummer": "69373121"
+    },
+    "invoice_date": "01-01-2021",
+    "products": [
+        {
+            "product_name": "Razor gaming keyboard ULTIMATE",
+            "quantity": 1,
+            "unit_price_excl_vat": 54.36,
+            "total_price_excl_vat": 54.36,
+            "vat_amount": 6.21
+        },
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 5,
+            "unit_price_excl_vat": 450.8,
+            "total_price_excl_vat": 2254.0,
+            "vat_amount": 2133.86
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 2,
+            "unit_price_excl_vat": 317.71,
+            "total_price_excl_vat": 635.42,
+            "vat_amount": 423.95
+        }
+    ],
+    "subtotal": 2943.78,
+    "vat": 2564.02,
+    "total": 5507.8
+}

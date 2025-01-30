@@ -1,0 +1,30 @@
+{
+    "invoice_id": "FACT-2016-826",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Kerkstraat 659",
+        "postcode": "8172 AB",
+        "stad": "Utrecht",
+        "KVK-nummer": "30577734"
+    },
+    "invoice_date": "27-08-2021",
+    "products": [
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 3,
+            "unit_price_excl_vat": 46.74,
+            "total_price_excl_vat": 140.22,
+            "vat_amount": 13.77
+        },
+        {
+            "product_name": "Razor gaming keyboard",
+            "quantity": 2,
+            "unit_price_excl_vat": 216.09,
+            "total_price_excl_vat": 432.18,
+            "vat_amount": 196.12
+        }
+    ],
+    "subtotal": 572.4,
+    "vat": 209.89000000000001,
+    "total": 782.29
+}

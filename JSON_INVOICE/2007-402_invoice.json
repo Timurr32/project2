@@ -1,0 +1,37 @@
+{
+    "invoice_id": "FACT-2007-402",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Kerkstraat 464",
+        "postcode": "5420 AA",
+        "stad": "Amsterdam",
+        "KVK-nummer": "25110093"
+    },
+    "invoice_date": "23-01-2022",
+    "products": [
+        {
+            "product_name": "Logitech gaming mouse G502 LIGHTSPEED",
+            "quantity": 2,
+            "unit_price_excl_vat": 481.73,
+            "total_price_excl_vat": 963.46,
+            "vat_amount": 974.64
+        },
+        {
+            "product_name": "MSI AERO 16G OC",
+            "quantity": 4,
+            "unit_price_excl_vat": 319.58,
+            "total_price_excl_vat": 1278.32,
+            "vat_amount": 857.88
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 3,
+            "unit_price_excl_vat": 46.24,
+            "total_price_excl_vat": 138.72,
+            "vat_amount": 13.47
+        }
+    ],
+    "subtotal": 2380.4999999999995,
+    "vat": 1845.99,
+    "total": 4226.49
+}

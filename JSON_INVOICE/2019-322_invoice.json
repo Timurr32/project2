@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2019-322",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Schoolstraat 926",
+        "postcode": "2938 AA",
+        "stad": "Utrecht",
+        "KVK-nummer": "42341577"
+    },
+    "invoice_date": "22-05-2021",
+    "products": [
+        {
+            "product_name": "Lenovo Thinkpad T14",
+            "quantity": 5,
+            "unit_price_excl_vat": 213.73,
+            "total_price_excl_vat": 1068.6499999999999,
+            "vat_amount": 479.61
+        }
+    ],
+    "subtotal": 1068.6499999999999,
+    "vat": 479.61,
+    "total": 1548.2599999999998
+}

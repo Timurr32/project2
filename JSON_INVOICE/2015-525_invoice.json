@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2015-525",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Schoolstraat 719",
+        "postcode": "5865 AB",
+        "stad": "Utrecht",
+        "KVK-nummer": "67938234"
+    },
+    "invoice_date": "17-09-2020",
+    "products": [
+        {
+            "product_name": "HP EliteDisplay E233",
+            "quantity": 5,
+            "unit_price_excl_vat": 379.69,
+            "total_price_excl_vat": 1898.45,
+            "vat_amount": 1513.63
+        }
+    ],
+    "subtotal": 1898.45,
+    "vat": 1513.63,
+    "total": 3412.08
+}

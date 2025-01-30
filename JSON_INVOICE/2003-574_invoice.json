@@ -1,0 +1,37 @@
+{
+    "invoice_id": "FACT-2003-574",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Kerkstraat 740",
+        "postcode": "5889 AB",
+        "stad": "Utrecht",
+        "KVK-nummer": "93912299"
+    },
+    "invoice_date": "04-12-2020",
+    "products": [
+        {
+            "product_name": "MSI AERO 16G OC",
+            "quantity": 2,
+            "unit_price_excl_vat": 33.99,
+            "total_price_excl_vat": 67.98,
+            "vat_amount": 4.85
+        },
+        {
+            "product_name": "Logitech gaming mouse G502",
+            "quantity": 5,
+            "unit_price_excl_vat": 261.16,
+            "total_price_excl_vat": 1305.8000000000002,
+            "vat_amount": 716.1
+        },
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 2,
+            "unit_price_excl_vat": 203.5,
+            "total_price_excl_vat": 407.0,
+            "vat_amount": 173.91
+        }
+    ],
+    "subtotal": 1780.7800000000002,
+    "vat": 894.86,
+    "total": 2675.6400000000003
+}

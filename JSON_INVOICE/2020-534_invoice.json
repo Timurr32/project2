@@ -1,0 +1,37 @@
+{
+    "invoice_id": "FACT-2020-534",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Kerkstraat 333",
+        "postcode": "3355 AA",
+        "stad": "Utrecht",
+        "KVK-nummer": "60587963"
+    },
+    "invoice_date": "20-08-2022",
+    "products": [
+        {
+            "product_name": "Logitech gaming mouse G502 HERO",
+            "quantity": 5,
+            "unit_price_excl_vat": 70.9,
+            "total_price_excl_vat": 354.5,
+            "vat_amount": 52.79
+        },
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 1,
+            "unit_price_excl_vat": 494.94,
+            "total_price_excl_vat": 494.94,
+            "vat_amount": 514.44
+        },
+        {
+            "product_name": "Razor gaming keyboard ULTIMATE",
+            "quantity": 5,
+            "unit_price_excl_vat": 11.55,
+            "total_price_excl_vat": 57.75,
+            "vat_amount": 1.4
+        }
+    ],
+    "subtotal": 907.19,
+    "vat": 568.63,
+    "total": 1475.8200000000002
+}

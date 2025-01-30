@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2006-568",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Kerkstraat 738",
+        "postcode": "8275 AC",
+        "stad": "Amsterdam",
+        "KVK-nummer": "59530378"
+    },
+    "invoice_date": "06-06-2023",
+    "products": [
+        {
+            "product_name": "HP EliteDisplay E223",
+            "quantity": 4,
+            "unit_price_excl_vat": 337.45,
+            "total_price_excl_vat": 1349.8,
+            "vat_amount": 956.47
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 5,
+            "unit_price_excl_vat": 333.1,
+            "total_price_excl_vat": 1665.5,
+            "vat_amount": 1165.02
+        },
+        {
+            "product_name": "Logitech gaming mouse G502 HERO",
+            "quantity": 5,
+            "unit_price_excl_vat": 70.66,
+            "total_price_excl_vat": 353.29999999999995,
+            "vat_amount": 52.43
+        },
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 3,
+            "unit_price_excl_vat": 260.36,
+            "total_price_excl_vat": 781.08,
+            "vat_amount": 427.09
+        }
+    ],
+    "subtotal": 4149.68,
+    "vat": 2601.0099999999998,
+    "total": 6750.6900000000005
+}

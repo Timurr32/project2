@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2005-991",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Schoolstraat 613",
+        "postcode": "3332 AA",
+        "stad": "Rotterdam",
+        "KVK-nummer": "26087758"
+    },
+    "invoice_date": "16-03-2020",
+    "products": [
+        {
+            "product_name": "Dell UltraSharp U2719DC",
+            "quantity": 1,
+            "unit_price_excl_vat": 261.57,
+            "total_price_excl_vat": 261.57,
+            "vat_amount": 143.68
+        }
+    ],
+    "subtotal": 261.57,
+    "vat": 143.68,
+    "total": 405.25
+}

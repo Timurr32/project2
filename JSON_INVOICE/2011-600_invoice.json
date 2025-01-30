@@ -1,0 +1,51 @@
+{
+    "invoice_id": "FACT-2011-600",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Hoofdstraat 903",
+        "postcode": "2257 AA",
+        "stad": "Rotterdam",
+        "KVK-nummer": "14696691"
+    },
+    "invoice_date": "10-05-2024",
+    "products": [
+        {
+            "product_name": "Logitech gaming mouse G502 LIGHTSPEED",
+            "quantity": 3,
+            "unit_price_excl_vat": 271.06,
+            "total_price_excl_vat": 813.1800000000001,
+            "vat_amount": 462.86
+        },
+        {
+            "product_name": "HP EliteDisplay E233",
+            "quantity": 1,
+            "unit_price_excl_vat": 176.74,
+            "total_price_excl_vat": 176.74,
+            "vat_amount": 65.61
+        },
+        {
+            "product_name": "Lenovo Thinkpad T15",
+            "quantity": 4,
+            "unit_price_excl_vat": 415.93,
+            "total_price_excl_vat": 1663.72,
+            "vat_amount": 1453.26
+        },
+        {
+            "product_name": "Razor gaming keyboard ULTIMATE",
+            "quantity": 3,
+            "unit_price_excl_vat": 298.88,
+            "total_price_excl_vat": 896.64,
+            "vat_amount": 562.73
+        },
+        {
+            "product_name": "Logitech gaming mouse G502",
+            "quantity": 5,
+            "unit_price_excl_vat": 376.61,
+            "total_price_excl_vat": 1883.0500000000002,
+            "vat_amount": 1489.3
+        }
+    ],
+    "subtotal": 5433.33,
+    "vat": 4033.76,
+    "total": 9467.09
+}

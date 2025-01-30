@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2002-948",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Schoolstraat 404",
+        "postcode": "3580 AB",
+        "stad": "Rotterdam",
+        "KVK-nummer": "92793093"
+    },
+    "invoice_date": "27-03-2020",
+    "products": [
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 3,
+            "unit_price_excl_vat": 361.4,
+            "total_price_excl_vat": 1084.1999999999998,
+            "vat_amount": 822.8
+        },
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 1,
+            "unit_price_excl_vat": 454.03,
+            "total_price_excl_vat": 454.03,
+            "vat_amount": 432.92
+        },
+        {
+            "product_name": "HP EliteDisplay E243",
+            "quantity": 5,
+            "unit_price_excl_vat": 478.26,
+            "total_price_excl_vat": 2391.3,
+            "vat_amount": 2401.58
+        },
+        {
+            "product_name": "Logitech gaming mouse G502",
+            "quantity": 2,
+            "unit_price_excl_vat": 271.42,
+            "total_price_excl_vat": 542.84,
+            "vat_amount": 309.42
+        }
+    ],
+    "subtotal": 4472.37,
+    "vat": 3966.7200000000003,
+    "total": 8439.09
+}

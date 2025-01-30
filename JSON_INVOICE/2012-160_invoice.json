@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2012-160",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Hoofdstraat 562",
+        "postcode": "8875 AB",
+        "stad": "Utrecht",
+        "KVK-nummer": "69447025"
+    },
+    "invoice_date": "07-01-2023",
+    "products": [
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 5,
+            "unit_price_excl_vat": 117.11,
+            "total_price_excl_vat": 585.55,
+            "vat_amount": 143.99
+        },
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 4,
+            "unit_price_excl_vat": 184.71,
+            "total_price_excl_vat": 738.84,
+            "vat_amount": 286.6
+        },
+        {
+            "product_name": "Logitech gaming mouse G502",
+            "quantity": 2,
+            "unit_price_excl_vat": 107.57,
+            "total_price_excl_vat": 215.14,
+            "vat_amount": 48.6
+        },
+        {
+            "product_name": "Logitech gaming mouse G502",
+            "quantity": 2,
+            "unit_price_excl_vat": 121.06,
+            "total_price_excl_vat": 242.12,
+            "vat_amount": 61.55
+        }
+    ],
+    "subtotal": 1781.6499999999996,
+    "vat": 540.74,
+    "total": 2322.3899999999994
+}

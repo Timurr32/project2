@@ -1,0 +1,37 @@
+{
+    "invoice_id": "FACT-2013-760",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Kerkstraat 473",
+        "postcode": "7309 AB",
+        "stad": "Rotterdam",
+        "KVK-nummer": "51349447"
+    },
+    "invoice_date": "15-11-2021",
+    "products": [
+        {
+            "product_name": "Razor gaming keyboard ULTIMATE",
+            "quantity": 5,
+            "unit_price_excl_vat": 253.77,
+            "total_price_excl_vat": 1268.8500000000001,
+            "vat_amount": 676.17
+        },
+        {
+            "product_name": "MSI AERO 64G OC",
+            "quantity": 5,
+            "unit_price_excl_vat": 202.77,
+            "total_price_excl_vat": 1013.85,
+            "vat_amount": 431.7
+        },
+        {
+            "product_name": "MSI AERO 16G OC",
+            "quantity": 2,
+            "unit_price_excl_vat": 403.45,
+            "total_price_excl_vat": 806.9,
+            "vat_amount": 683.61
+        }
+    ],
+    "subtotal": 3089.6000000000004,
+    "vat": 1791.48,
+    "total": 4881.08
+}

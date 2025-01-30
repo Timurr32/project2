@@ -1,0 +1,30 @@
+{
+    "invoice_id": "FACT-2021-515",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Hoofdstraat 986",
+        "postcode": "5899 AB",
+        "stad": "Utrecht",
+        "KVK-nummer": "87289923"
+    },
+    "invoice_date": "14-07-2023",
+    "products": [
+        {
+            "product_name": "MSI AERO 16G OC",
+            "quantity": 3,
+            "unit_price_excl_vat": 184.68,
+            "total_price_excl_vat": 554.04,
+            "vat_amount": 214.86
+        },
+        {
+            "product_name": "Lenovo Thinkpad T15",
+            "quantity": 1,
+            "unit_price_excl_vat": 330.68,
+            "total_price_excl_vat": 330.68,
+            "vat_amount": 229.62
+        }
+    ],
+    "subtotal": 884.72,
+    "vat": 444.48,
+    "total": 1329.2
+}

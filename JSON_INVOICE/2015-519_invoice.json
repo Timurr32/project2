@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2015-519",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Schoolstraat 678",
+        "postcode": "3427 AC",
+        "stad": "Utrecht",
+        "KVK-nummer": "15309559"
+    },
+    "invoice_date": "08-03-2023",
+    "products": [
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 2,
+            "unit_price_excl_vat": 370.58,
+            "total_price_excl_vat": 741.16,
+            "vat_amount": 576.77
+        },
+        {
+            "product_name": "Lenovo Thinkpad T14",
+            "quantity": 3,
+            "unit_price_excl_vat": 131.22,
+            "total_price_excl_vat": 393.65999999999997,
+            "vat_amount": 108.49
+        },
+        {
+            "product_name": "MSI AERO 64G OC",
+            "quantity": 5,
+            "unit_price_excl_vat": 344.8,
+            "total_price_excl_vat": 1724.0,
+            "vat_amount": 1248.35
+        },
+        {
+            "product_name": "HP EliteDisplay E223",
+            "quantity": 5,
+            "unit_price_excl_vat": 396.6,
+            "total_price_excl_vat": 1983.0,
+            "vat_amount": 1651.64
+        }
+    ],
+    "subtotal": 4841.82,
+    "vat": 3585.25,
+    "total": 8427.07
+}

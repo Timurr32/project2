@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2020-717",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Hoofdstraat 154",
+        "postcode": "5575 AB",
+        "stad": "Rotterdam",
+        "KVK-nummer": "84203961"
+    },
+    "invoice_date": "06-05-2022",
+    "products": [
+        {
+            "product_name": "Dell UltraSharp U2419H",
+            "quantity": 5,
+            "unit_price_excl_vat": 79.65,
+            "total_price_excl_vat": 398.25,
+            "vat_amount": 66.63
+        }
+    ],
+    "subtotal": 398.25,
+    "vat": 66.63,
+    "total": 464.88
+}

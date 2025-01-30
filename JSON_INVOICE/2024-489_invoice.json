@@ -1,0 +1,30 @@
+{
+    "invoice_id": "FACT-2024-489",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Schoolstraat 331",
+        "postcode": "5404 AB",
+        "stad": "Utrecht",
+        "KVK-nummer": "89756963"
+    },
+    "invoice_date": "01-05-2024",
+    "products": [
+        {
+            "product_name": "Logitech gaming mouse G502 HERO",
+            "quantity": 4,
+            "unit_price_excl_vat": 185.71,
+            "total_price_excl_vat": 742.84,
+            "vat_amount": 289.71
+        },
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 4,
+            "unit_price_excl_vat": 261.51,
+            "total_price_excl_vat": 1046.04,
+            "vat_amount": 574.49
+        }
+    ],
+    "subtotal": 1788.88,
+    "vat": 864.2,
+    "total": 2653.08
+}

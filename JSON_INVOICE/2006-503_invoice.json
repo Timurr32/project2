@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2006-503",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Schoolstraat 510",
+        "postcode": "6402 AB",
+        "stad": "Amsterdam",
+        "KVK-nummer": "45469201"
+    },
+    "invoice_date": "11-11-2020",
+    "products": [
+        {
+            "product_name": "Logitech gaming mouse G502 LIGHTSPEED",
+            "quantity": 5,
+            "unit_price_excl_vat": 355.53,
+            "total_price_excl_vat": 1777.6499999999999,
+            "vat_amount": 1327.19
+        }
+    ],
+    "subtotal": 1777.6499999999999,
+    "vat": 1327.19,
+    "total": 3104.84
+}

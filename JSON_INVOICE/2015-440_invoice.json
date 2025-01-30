@@ -1,0 +1,30 @@
+{
+    "invoice_id": "FACT-2015-440",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Hoofdstraat 791",
+        "postcode": "3801 AC",
+        "stad": "Amsterdam",
+        "KVK-nummer": "94043801"
+    },
+    "invoice_date": "15-04-2020",
+    "products": [
+        {
+            "product_name": "Razor gaming keyboard ULTIMATE",
+            "quantity": 2,
+            "unit_price_excl_vat": 331.28,
+            "total_price_excl_vat": 662.56,
+            "vat_amount": 460.94
+        },
+        {
+            "product_name": "HP EliteDisplay E223",
+            "quantity": 4,
+            "unit_price_excl_vat": 195.45,
+            "total_price_excl_vat": 781.8,
+            "vat_amount": 320.85
+        }
+    ],
+    "subtotal": 1444.36,
+    "vat": 781.79,
+    "total": 2226.1499999999996
+}

@@ -1,0 +1,51 @@
+{
+    "invoice_id": "FACT-2005-762",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Schoolstraat 528",
+        "postcode": "4369 AB",
+        "stad": "Rotterdam",
+        "KVK-nummer": "93266471"
+    },
+    "invoice_date": "06-07-2023",
+    "products": [
+        {
+            "product_name": "Lenovo Thinkpad T15",
+            "quantity": 5,
+            "unit_price_excl_vat": 460.91,
+            "total_price_excl_vat": 2304.55,
+            "vat_amount": 2230.57
+        },
+        {
+            "product_name": "Lenovo Thinkpad T14",
+            "quantity": 3,
+            "unit_price_excl_vat": 379.08,
+            "total_price_excl_vat": 1137.24,
+            "vat_amount": 905.36
+        },
+        {
+            "product_name": "HP EliteDisplay E243",
+            "quantity": 2,
+            "unit_price_excl_vat": 72.05,
+            "total_price_excl_vat": 144.1,
+            "vat_amount": 21.8
+        },
+        {
+            "product_name": "HP EliteDisplay E243",
+            "quantity": 5,
+            "unit_price_excl_vat": 149.76,
+            "total_price_excl_vat": 748.8,
+            "vat_amount": 235.5
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 5,
+            "unit_price_excl_vat": 369.34,
+            "total_price_excl_vat": 1846.6999999999998,
+            "vat_amount": 1432.3
+        }
+    ],
+    "subtotal": 6181.389999999999,
+    "vat": 4825.530000000001,
+    "total": 11006.92
+}

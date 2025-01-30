@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2001-074",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Hoofdstraat 352",
+        "postcode": "6875 AA",
+        "stad": "Amsterdam",
+        "KVK-nummer": "40877107"
+    },
+    "invoice_date": "23-07-2023",
+    "products": [
+        {
+            "product_name": "Logitech gaming mouse G502 HERO",
+            "quantity": 3,
+            "unit_price_excl_vat": 296.61,
+            "total_price_excl_vat": 889.83,
+            "vat_amount": 554.28
+        },
+        {
+            "product_name": "Lenovo Thinkpad T14",
+            "quantity": 5,
+            "unit_price_excl_vat": 188.25,
+            "total_price_excl_vat": 941.25,
+            "vat_amount": 372.08
+        },
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 3,
+            "unit_price_excl_vat": 479.07,
+            "total_price_excl_vat": 1437.21,
+            "vat_amount": 1445.83
+        },
+        {
+            "product_name": "MSI AERO 16G OC",
+            "quantity": 2,
+            "unit_price_excl_vat": 279.13,
+            "total_price_excl_vat": 558.26,
+            "vat_amount": 327.25
+        }
+    ],
+    "subtotal": 3826.55,
+    "vat": 2699.4399999999996,
+    "total": 6525.99
+}

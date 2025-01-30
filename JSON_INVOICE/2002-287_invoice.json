@@ -1,0 +1,30 @@
+{
+    "invoice_id": "FACT-2002-287",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Hoofdstraat 302",
+        "postcode": "5016 AA",
+        "stad": "Rotterdam",
+        "KVK-nummer": "76092907"
+    },
+    "invoice_date": "12-08-2020",
+    "products": [
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 4,
+            "unit_price_excl_vat": 394.14,
+            "total_price_excl_vat": 1576.56,
+            "vat_amount": 1304.92
+        },
+        {
+            "product_name": "Razor gaming keyboard ULTIMATE",
+            "quantity": 5,
+            "unit_price_excl_vat": 169.29,
+            "total_price_excl_vat": 846.4499999999999,
+            "vat_amount": 300.91
+        }
+    ],
+    "subtotal": 2423.0099999999998,
+    "vat": 1605.8300000000002,
+    "total": 4028.84
+}

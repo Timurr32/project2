@@ -1,0 +1,30 @@
+{
+    "invoice_id": "FACT-2012-614",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Schoolstraat 365",
+        "postcode": "6497 AA",
+        "stad": "Rotterdam",
+        "KVK-nummer": "90426111"
+    },
+    "invoice_date": "25-07-2020",
+    "products": [
+        {
+            "product_name": "Lenovo Thinkpad T15",
+            "quantity": 3,
+            "unit_price_excl_vat": 121.68,
+            "total_price_excl_vat": 365.04,
+            "vat_amount": 93.27
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 1,
+            "unit_price_excl_vat": 262.42,
+            "total_price_excl_vat": 262.42,
+            "vat_amount": 144.62
+        }
+    ],
+    "subtotal": 627.46,
+    "vat": 237.89,
+    "total": 865.35
+}

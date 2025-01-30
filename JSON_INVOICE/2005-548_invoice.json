@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2005-548",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Schoolstraat 725",
+        "postcode": "4011 AB",
+        "stad": "Rotterdam",
+        "KVK-nummer": "23852740"
+    },
+    "invoice_date": "12-04-2024",
+    "products": [
+        {
+            "product_name": "MSI AERO 64G OC",
+            "quantity": 5,
+            "unit_price_excl_vat": 98.08,
+            "total_price_excl_vat": 490.4,
+            "vat_amount": 101.02
+        }
+    ],
+    "subtotal": 490.4,
+    "vat": 101.02,
+    "total": 591.42
+}

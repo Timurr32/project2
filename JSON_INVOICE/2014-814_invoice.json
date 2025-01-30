@@ -1,0 +1,30 @@
+{
+    "invoice_id": "FACT-2014-814",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Hoofdstraat 196",
+        "postcode": "5108 AA",
+        "stad": "Rotterdam",
+        "KVK-nummer": "40599603"
+    },
+    "invoice_date": "15-05-2023",
+    "products": [
+        {
+            "product_name": "HP EliteDisplay E233",
+            "quantity": 4,
+            "unit_price_excl_vat": 425.09,
+            "total_price_excl_vat": 1700.36,
+            "vat_amount": 1517.91
+        },
+        {
+            "product_name": "Lenovo Thinkpad T14",
+            "quantity": 3,
+            "unit_price_excl_vat": 400.75,
+            "total_price_excl_vat": 1202.25,
+            "vat_amount": 1011.81
+        }
+    ],
+    "subtotal": 2902.6099999999997,
+    "vat": 2529.7200000000003,
+    "total": 5432.33
+}

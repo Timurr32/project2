@@ -1,0 +1,51 @@
+{
+    "invoice_id": "FACT-2004-940",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Hoofdstraat 602",
+        "postcode": "5712 AB",
+        "stad": "Rotterdam",
+        "KVK-nummer": "63277287"
+    },
+    "invoice_date": "17-02-2020",
+    "products": [
+        {
+            "product_name": "Logitech gaming mouse G502 HERO",
+            "quantity": 2,
+            "unit_price_excl_vat": 348.98,
+            "total_price_excl_vat": 697.96,
+            "vat_amount": 511.53
+        },
+        {
+            "product_name": "HP EliteDisplay E243",
+            "quantity": 2,
+            "unit_price_excl_vat": 207.45,
+            "total_price_excl_vat": 414.9,
+            "vat_amount": 180.73
+        },
+        {
+            "product_name": "HP EliteDisplay E223",
+            "quantity": 1,
+            "unit_price_excl_vat": 456.31,
+            "total_price_excl_vat": 456.31,
+            "vat_amount": 437.28
+        },
+        {
+            "product_name": "Lenovo Thinkpad T14s",
+            "quantity": 3,
+            "unit_price_excl_vat": 187.26,
+            "total_price_excl_vat": 561.78,
+            "vat_amount": 220.89
+        },
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 5,
+            "unit_price_excl_vat": 357.43,
+            "total_price_excl_vat": 1787.15,
+            "vat_amount": 1341.43
+        }
+    ],
+    "subtotal": 3918.1,
+    "vat": 2691.8599999999997,
+    "total": 6609.959999999999
+}

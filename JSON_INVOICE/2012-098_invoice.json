@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2012-098",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Schoolstraat 497",
+        "postcode": "9612 AC",
+        "stad": "Rotterdam",
+        "KVK-nummer": "93216690"
+    },
+    "invoice_date": "26-07-2021",
+    "products": [
+        {
+            "product_name": "Logitech gaming mouse G502 HERO",
+            "quantity": 3,
+            "unit_price_excl_vat": 278.52,
+            "total_price_excl_vat": 835.56,
+            "vat_amount": 488.72
+        }
+    ],
+    "subtotal": 835.56,
+    "vat": 488.72,
+    "total": 1324.28
+}

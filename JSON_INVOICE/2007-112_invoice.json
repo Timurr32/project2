@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2007-112",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Hoofdstraat 133",
+        "postcode": "3597 AA",
+        "stad": "Utrecht",
+        "KVK-nummer": "97350354"
+    },
+    "invoice_date": "05-10-2020",
+    "products": [
+        {
+            "product_name": "HP EliteDisplay E223",
+            "quantity": 4,
+            "unit_price_excl_vat": 451.37,
+            "total_price_excl_vat": 1805.48,
+            "vat_amount": 1711.41
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 4,
+            "unit_price_excl_vat": 469.2,
+            "total_price_excl_vat": 1876.8,
+            "vat_amount": 1849.21
+        },
+        {
+            "product_name": "MSI AERO 32G OC",
+            "quantity": 4,
+            "unit_price_excl_vat": 102.48,
+            "total_price_excl_vat": 409.92,
+            "vat_amount": 88.21
+        },
+        {
+            "product_name": "Logitech gaming mouse G502 LIGHTSPEED",
+            "quantity": 3,
+            "unit_price_excl_vat": 176.69,
+            "total_price_excl_vat": 530.0699999999999,
+            "vat_amount": 196.66
+        }
+    ],
+    "subtotal": 4622.2699999999995,
+    "vat": 3845.49,
+    "total": 8467.759999999998
+}

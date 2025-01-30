@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2010-397",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Schoolstraat 628",
+        "postcode": "1374 AA",
+        "stad": "Amsterdam",
+        "KVK-nummer": "53672740"
+    },
+    "invoice_date": "03-09-2020",
+    "products": [
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 5,
+            "unit_price_excl_vat": 316.01,
+            "total_price_excl_vat": 1580.05,
+            "vat_amount": 1048.52
+        }
+    ],
+    "subtotal": 1580.05,
+    "vat": 1048.52,
+    "total": 2628.5699999999997
+}

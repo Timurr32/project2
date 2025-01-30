@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2003-198",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Schoolstraat 446",
+        "postcode": "8053 AC",
+        "stad": "Rotterdam",
+        "KVK-nummer": "87660006"
+    },
+    "invoice_date": "25-09-2021",
+    "products": [
+        {
+            "product_name": "MSI AERO 16G OC",
+            "quantity": 2,
+            "unit_price_excl_vat": 209.52,
+            "total_price_excl_vat": 419.04,
+            "vat_amount": 184.38
+        }
+    ],
+    "subtotal": 419.04,
+    "vat": 184.38,
+    "total": 603.4200000000001
+}

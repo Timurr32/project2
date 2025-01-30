@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2020-375",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Kerkstraat 817",
+        "postcode": "9280 AC",
+        "stad": "Rotterdam",
+        "KVK-nummer": "64036407"
+    },
+    "invoice_date": "13-04-2021",
+    "products": [
+        {
+            "product_name": "Lenovo Thinkpad T15",
+            "quantity": 4,
+            "unit_price_excl_vat": 104.56,
+            "total_price_excl_vat": 418.24,
+            "vat_amount": 91.85
+        }
+    ],
+    "subtotal": 418.24,
+    "vat": 91.85,
+    "total": 510.09000000000003
+}

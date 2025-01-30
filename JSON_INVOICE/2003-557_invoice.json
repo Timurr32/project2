@@ -1,0 +1,51 @@
+{
+    "invoice_id": "FACT-2003-557",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Hoofdstraat 90",
+        "postcode": "2282 AB",
+        "stad": "Rotterdam",
+        "KVK-nummer": "66682735"
+    },
+    "invoice_date": "05-04-2022",
+    "products": [
+        {
+            "product_name": "Dell UltraSharp U2719DC",
+            "quantity": 5,
+            "unit_price_excl_vat": 273.66,
+            "total_price_excl_vat": 1368.3000000000002,
+            "vat_amount": 786.36
+        },
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 2,
+            "unit_price_excl_vat": 410.94,
+            "total_price_excl_vat": 821.88,
+            "vat_amount": 709.28
+        },
+        {
+            "product_name": "Lenovo Thinkpad T14",
+            "quantity": 4,
+            "unit_price_excl_vat": 272.5,
+            "total_price_excl_vat": 1090.0,
+            "vat_amount": 623.81
+        },
+        {
+            "product_name": "Logitech gaming mouse G502 HERO",
+            "quantity": 5,
+            "unit_price_excl_vat": 126.42,
+            "total_price_excl_vat": 632.1,
+            "vat_amount": 167.82
+        },
+        {
+            "product_name": "Lenovo Thinkpad T14s",
+            "quantity": 2,
+            "unit_price_excl_vat": 369.4,
+            "total_price_excl_vat": 738.8,
+            "vat_amount": 573.09
+        }
+    ],
+    "subtotal": 4651.08,
+    "vat": 2860.36,
+    "total": 7511.4400000000005
+}

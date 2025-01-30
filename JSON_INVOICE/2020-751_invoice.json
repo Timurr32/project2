@@ -1,0 +1,30 @@
+{
+    "invoice_id": "FACT-2020-751",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Schoolstraat 776",
+        "postcode": "7390 AB",
+        "stad": "Utrecht",
+        "KVK-nummer": "44556199"
+    },
+    "invoice_date": "24-11-2021",
+    "products": [
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 4,
+            "unit_price_excl_vat": 251.75,
+            "total_price_excl_vat": 1007.0,
+            "vat_amount": 532.4
+        },
+        {
+            "product_name": "HP EliteDisplay E233",
+            "quantity": 5,
+            "unit_price_excl_vat": 476.91,
+            "total_price_excl_vat": 2384.55,
+            "vat_amount": 2388.13
+        }
+    ],
+    "subtotal": 3391.55,
+    "vat": 2920.53,
+    "total": 6312.08
+}

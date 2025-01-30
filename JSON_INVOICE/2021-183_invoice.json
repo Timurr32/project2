@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2021-183",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Hoofdstraat 956",
+        "postcode": "4011 AB",
+        "stad": "Rotterdam",
+        "KVK-nummer": "83697186"
+    },
+    "invoice_date": "10-10-2022",
+    "products": [
+        {
+            "product_name": "Razor gaming keyboard ULTIMATE",
+            "quantity": 4,
+            "unit_price_excl_vat": 257.66,
+            "total_price_excl_vat": 1030.64,
+            "vat_amount": 557.68
+        },
+        {
+            "product_name": "Razor gaming keyboard",
+            "quantity": 5,
+            "unit_price_excl_vat": 488.61,
+            "total_price_excl_vat": 2443.05,
+            "vat_amount": 2506.81
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 3,
+            "unit_price_excl_vat": 319.18,
+            "total_price_excl_vat": 957.54,
+            "vat_amount": 641.84
+        },
+        {
+            "product_name": "Logitech gaming mouse G502 HERO",
+            "quantity": 1,
+            "unit_price_excl_vat": 239.66,
+            "total_price_excl_vat": 239.66,
+            "vat_amount": 120.62
+        }
+    ],
+    "subtotal": 4670.89,
+    "vat": 3826.95,
+    "total": 8497.84
+}

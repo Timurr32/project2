@@ -1,0 +1,51 @@
+{
+    "invoice_id": "FACT-2001-856",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Hoofdstraat 564",
+        "postcode": "6307 AC",
+        "stad": "Amsterdam",
+        "KVK-nummer": "52777246"
+    },
+    "invoice_date": "23-01-2024",
+    "products": [
+        {
+            "product_name": "Logitech gaming mouse G502",
+            "quantity": 5,
+            "unit_price_excl_vat": 482.31,
+            "total_price_excl_vat": 2411.55,
+            "vat_amount": 2442.66
+        },
+        {
+            "product_name": "Dell UltraSharp U2719DC",
+            "quantity": 5,
+            "unit_price_excl_vat": 309.32,
+            "total_price_excl_vat": 1546.6,
+            "vat_amount": 1004.67
+        },
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 1,
+            "unit_price_excl_vat": 286.01,
+            "total_price_excl_vat": 286.01,
+            "vat_amount": 171.78
+        },
+        {
+            "product_name": "Dell UltraSharp U2719DC",
+            "quantity": 4,
+            "unit_price_excl_vat": 448.83,
+            "total_price_excl_vat": 1795.32,
+            "vat_amount": 1692.09
+        },
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 4,
+            "unit_price_excl_vat": 99.5,
+            "total_price_excl_vat": 398.0,
+            "vat_amount": 83.14
+        }
+    ],
+    "subtotal": 6437.48,
+    "vat": 5394.34,
+    "total": 11831.82
+}

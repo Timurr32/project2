@@ -1,0 +1,37 @@
+{
+    "invoice_id": "FACT-2006-085",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Schoolstraat 315",
+        "postcode": "6689 AB",
+        "stad": "Utrecht",
+        "KVK-nummer": "32176180"
+    },
+    "invoice_date": "05-03-2021",
+    "products": [
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 1,
+            "unit_price_excl_vat": 250.05,
+            "total_price_excl_vat": 250.05,
+            "vat_amount": 131.3
+        },
+        {
+            "product_name": "Lenovo Thinkpad T14s",
+            "quantity": 1,
+            "unit_price_excl_vat": 240.34,
+            "total_price_excl_vat": 240.34,
+            "vat_amount": 121.3
+        },
+        {
+            "product_name": "Logitech gaming mouse G502",
+            "quantity": 1,
+            "unit_price_excl_vat": 67.81,
+            "total_price_excl_vat": 67.81,
+            "vat_amount": 9.66
+        }
+    ],
+    "subtotal": 558.2,
+    "vat": 262.26000000000005,
+    "total": 820.46
+}

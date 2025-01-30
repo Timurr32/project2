@@ -1,0 +1,51 @@
+{
+    "invoice_id": "FACT-2023-977",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Kerkstraat 14",
+        "postcode": "5320 AC",
+        "stad": "Utrecht",
+        "KVK-nummer": "82606479"
+    },
+    "invoice_date": "02-10-2021",
+    "products": [
+        {
+            "product_name": "Logitech gaming mouse G502",
+            "quantity": 4,
+            "unit_price_excl_vat": 266.05,
+            "total_price_excl_vat": 1064.2,
+            "vat_amount": 594.57
+        },
+        {
+            "product_name": "HP EliteDisplay E243",
+            "quantity": 2,
+            "unit_price_excl_vat": 196.82,
+            "total_price_excl_vat": 393.64,
+            "vat_amount": 162.69
+        },
+        {
+            "product_name": "MSI AERO 16G OC",
+            "quantity": 2,
+            "unit_price_excl_vat": 36.48,
+            "total_price_excl_vat": 72.96,
+            "vat_amount": 5.59
+        },
+        {
+            "product_name": "Logitech gaming mouse G502",
+            "quantity": 5,
+            "unit_price_excl_vat": 436.27,
+            "total_price_excl_vat": 2181.35,
+            "vat_amount": 1998.55
+        },
+        {
+            "product_name": "Dell UltraSharp U2719DC",
+            "quantity": 3,
+            "unit_price_excl_vat": 114.64,
+            "total_price_excl_vat": 343.92,
+            "vat_amount": 82.78
+        }
+    ],
+    "subtotal": 4056.07,
+    "vat": 2844.1800000000003,
+    "total": 6900.25
+}

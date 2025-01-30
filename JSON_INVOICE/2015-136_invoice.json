@@ -1,0 +1,51 @@
+{
+    "invoice_id": "FACT-2015-136",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Hoofdstraat 776",
+        "postcode": "4921 AC",
+        "stad": "Amsterdam",
+        "KVK-nummer": "28052495"
+    },
+    "invoice_date": "11-12-2022",
+    "products": [
+        {
+            "product_name": "Logitech gaming mouse G502",
+            "quantity": 1,
+            "unit_price_excl_vat": 332.1,
+            "total_price_excl_vat": 332.1,
+            "vat_amount": 231.61
+        },
+        {
+            "product_name": "Lenovo Thinkpad T14",
+            "quantity": 4,
+            "unit_price_excl_vat": 201.66,
+            "total_price_excl_vat": 806.64,
+            "vat_amount": 341.61
+        },
+        {
+            "product_name": "Dell UltraSharp U2719DC",
+            "quantity": 3,
+            "unit_price_excl_vat": 357.03,
+            "total_price_excl_vat": 1071.09,
+            "vat_amount": 803.1
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 4,
+            "unit_price_excl_vat": 461.91,
+            "total_price_excl_vat": 1847.64,
+            "vat_amount": 1792.21
+        },
+        {
+            "product_name": "HP EliteDisplay E243",
+            "quantity": 1,
+            "unit_price_excl_vat": 40.04,
+            "total_price_excl_vat": 40.04,
+            "vat_amount": 3.37
+        }
+    ],
+    "subtotal": 4097.51,
+    "vat": 3171.9,
+    "total": 7269.41
+}

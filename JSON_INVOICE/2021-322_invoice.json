@@ -1,0 +1,51 @@
+{
+    "invoice_id": "FACT-2021-322",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Schoolstraat 55",
+        "postcode": "1986 AA",
+        "stad": "Rotterdam",
+        "KVK-nummer": "81072466"
+    },
+    "invoice_date": "26-10-2022",
+    "products": [
+        {
+            "product_name": "HP EliteDisplay E223",
+            "quantity": 5,
+            "unit_price_excl_vat": 340.39,
+            "total_price_excl_vat": 1701.9499999999998,
+            "vat_amount": 1216.55
+        },
+        {
+            "product_name": "Lenovo Thinkpad T15",
+            "quantity": 3,
+            "unit_price_excl_vat": 460.28,
+            "total_price_excl_vat": 1380.84,
+            "vat_amount": 1334.72
+        },
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 4,
+            "unit_price_excl_vat": 447.8,
+            "total_price_excl_vat": 1791.2,
+            "vat_amount": 1684.44
+        },
+        {
+            "product_name": "Razor gaming keyboard ULTIMATE",
+            "quantity": 4,
+            "unit_price_excl_vat": 323.45,
+            "total_price_excl_vat": 1293.8,
+            "vat_amount": 878.75
+        },
+        {
+            "product_name": "Lenovo Thinkpad T14",
+            "quantity": 4,
+            "unit_price_excl_vat": 428.12,
+            "total_price_excl_vat": 1712.48,
+            "vat_amount": 1539.69
+        }
+    ],
+    "subtotal": 7880.27,
+    "vat": 6654.15,
+    "total": 14534.42
+}

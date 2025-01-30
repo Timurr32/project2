@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2003-736",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Kerkstraat 815",
+        "postcode": "6446 AB",
+        "stad": "Amsterdam",
+        "KVK-nummer": "95064696"
+    },
+    "invoice_date": "27-02-2021",
+    "products": [
+        {
+            "product_name": "Lenovo Thinkpad T14s",
+            "quantity": 5,
+            "unit_price_excl_vat": 276.17,
+            "total_price_excl_vat": 1380.8500000000001,
+            "vat_amount": 800.89
+        },
+        {
+            "product_name": "HP EliteDisplay E243",
+            "quantity": 1,
+            "unit_price_excl_vat": 492.7,
+            "total_price_excl_vat": 492.7,
+            "vat_amount": 509.8
+        },
+        {
+            "product_name": "Logitech gaming mouse G502 HERO",
+            "quantity": 5,
+            "unit_price_excl_vat": 383.18,
+            "total_price_excl_vat": 1915.9,
+            "vat_amount": 1541.72
+        },
+        {
+            "product_name": "MSI AERO 32G OC",
+            "quantity": 1,
+            "unit_price_excl_vat": 392.4,
+            "total_price_excl_vat": 392.4,
+            "vat_amount": 323.34
+        }
+    ],
+    "subtotal": 4181.85,
+    "vat": 3175.75,
+    "total": 7357.6
+}

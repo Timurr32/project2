@@ -1,0 +1,30 @@
+{
+    "invoice_id": "FACT-2001-534",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Hoofdstraat 458",
+        "postcode": "5081 AA",
+        "stad": "Utrecht",
+        "KVK-nummer": "53370773"
+    },
+    "invoice_date": "26-09-2022",
+    "products": [
+        {
+            "product_name": "Lenovo Thinkpad T14s",
+            "quantity": 2,
+            "unit_price_excl_vat": 112.62,
+            "total_price_excl_vat": 225.24,
+            "vat_amount": 53.27
+        },
+        {
+            "product_name": "Dell UltraSharp U2419H",
+            "quantity": 1,
+            "unit_price_excl_vat": 339.69,
+            "total_price_excl_vat": 339.69,
+            "vat_amount": 242.3
+        }
+    ],
+    "subtotal": 564.9300000000001,
+    "vat": 295.57,
+    "total": 860.5
+}

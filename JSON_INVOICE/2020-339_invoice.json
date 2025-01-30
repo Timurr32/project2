@@ -1,0 +1,37 @@
+{
+    "invoice_id": "FACT-2020-339",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Hoofdstraat 906",
+        "postcode": "4834 AB",
+        "stad": "Utrecht",
+        "KVK-nummer": "16984032"
+    },
+    "invoice_date": "22-07-2022",
+    "products": [
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 1,
+            "unit_price_excl_vat": 459.31,
+            "total_price_excl_vat": 459.31,
+            "vat_amount": 443.05
+        },
+        {
+            "product_name": "Lenovo Thinkpad T15",
+            "quantity": 1,
+            "unit_price_excl_vat": 338.56,
+            "total_price_excl_vat": 338.56,
+            "vat_amount": 240.72
+        },
+        {
+            "product_name": "Lenovo Thinkpad T15",
+            "quantity": 5,
+            "unit_price_excl_vat": 320.14,
+            "total_price_excl_vat": 1600.6999999999998,
+            "vat_amount": 1076.15
+        }
+    ],
+    "subtotal": 2398.5699999999997,
+    "vat": 1759.92,
+    "total": 4158.49
+}

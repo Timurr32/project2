@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2004-361",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Hoofdstraat 638",
+        "postcode": "5432 AC",
+        "stad": "Utrecht",
+        "KVK-nummer": "52999935"
+    },
+    "invoice_date": "18-01-2022",
+    "products": [
+        {
+            "product_name": "Dell UltraSharp U2419H",
+            "quantity": 1,
+            "unit_price_excl_vat": 469.64,
+            "total_price_excl_vat": 469.64,
+            "vat_amount": 463.16
+        },
+        {
+            "product_name": "MSI AERO 64G OC",
+            "quantity": 1,
+            "unit_price_excl_vat": 291.79,
+            "total_price_excl_vat": 291.79,
+            "vat_amount": 178.81
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 1,
+            "unit_price_excl_vat": 327.28,
+            "total_price_excl_vat": 327.28,
+            "vat_amount": 224.94
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 2,
+            "unit_price_excl_vat": 454.81,
+            "total_price_excl_vat": 909.62,
+            "vat_amount": 868.78
+        }
+    ],
+    "subtotal": 1998.33,
+    "vat": 1735.69,
+    "total": 3734.02
+}

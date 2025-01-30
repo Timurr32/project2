@@ -1,0 +1,30 @@
+{
+    "invoice_id": "FACT-2001-776",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Kerkstraat 493",
+        "postcode": "4084 AA",
+        "stad": "Rotterdam",
+        "KVK-nummer": "39866780"
+    },
+    "invoice_date": "08-01-2022",
+    "products": [
+        {
+            "product_name": "Lenovo Thinkpad T15",
+            "quantity": 5,
+            "unit_price_excl_vat": 421.53,
+            "total_price_excl_vat": 2107.6499999999996,
+            "vat_amount": 1865.69
+        },
+        {
+            "product_name": "Lenovo Thinkpad T15",
+            "quantity": 4,
+            "unit_price_excl_vat": 385.97,
+            "total_price_excl_vat": 1543.88,
+            "vat_amount": 1251.31
+        }
+    ],
+    "subtotal": 3651.5299999999997,
+    "vat": 3117.0,
+    "total": 6768.53
+}

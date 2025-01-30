@@ -1,0 +1,37 @@
+{
+    "invoice_id": "FACT-2019-692",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Schoolstraat 83",
+        "postcode": "4850 AC",
+        "stad": "Rotterdam",
+        "KVK-nummer": "36341934"
+    },
+    "invoice_date": "23-11-2020",
+    "products": [
+        {
+            "product_name": "MSI AERO 16G OC",
+            "quantity": 2,
+            "unit_price_excl_vat": 132.95,
+            "total_price_excl_vat": 265.9,
+            "vat_amount": 74.24
+        },
+        {
+            "product_name": "Dell UltraSharp U2719DC",
+            "quantity": 1,
+            "unit_price_excl_vat": 468.33,
+            "total_price_excl_vat": 468.33,
+            "vat_amount": 460.6
+        },
+        {
+            "product_name": "Lenovo Thinkpad T14",
+            "quantity": 2,
+            "unit_price_excl_vat": 404.5,
+            "total_price_excl_vat": 809.0,
+            "vat_amount": 687.16
+        }
+    ],
+    "subtotal": 1543.23,
+    "vat": 1222.0,
+    "total": 2765.23
+}

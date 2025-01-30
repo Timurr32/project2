@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2017-423",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Hoofdstraat 825",
+        "postcode": "1308 AC",
+        "stad": "Rotterdam",
+        "KVK-nummer": "19254550"
+    },
+    "invoice_date": "07-02-2020",
+    "products": [
+        {
+            "product_name": "MSI AERO 16G OC",
+            "quantity": 5,
+            "unit_price_excl_vat": 150.93,
+            "total_price_excl_vat": 754.6500000000001,
+            "vat_amount": 239.22
+        }
+    ],
+    "subtotal": 754.6500000000001,
+    "vat": 239.22,
+    "total": 993.8700000000001
+}

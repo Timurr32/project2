@@ -1,0 +1,51 @@
+{
+    "invoice_id": "FACT-2004-897",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Schoolstraat 454",
+        "postcode": "8945 AB",
+        "stad": "Utrecht",
+        "KVK-nummer": "65838058"
+    },
+    "invoice_date": "12-09-2022",
+    "products": [
+        {
+            "product_name": "Razor gaming keyboard",
+            "quantity": 1,
+            "unit_price_excl_vat": 410.91,
+            "total_price_excl_vat": 410.91,
+            "vat_amount": 354.57
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 1,
+            "unit_price_excl_vat": 120.87,
+            "total_price_excl_vat": 120.87,
+            "vat_amount": 30.68
+        },
+        {
+            "product_name": "Lenovo Thinkpad T14s",
+            "quantity": 3,
+            "unit_price_excl_vat": 76.72,
+            "total_price_excl_vat": 230.16,
+            "vat_amount": 37.08
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 2,
+            "unit_price_excl_vat": 272.67,
+            "total_price_excl_vat": 545.34,
+            "vat_amount": 312.26
+        },
+        {
+            "product_name": "Logitech gaming mouse G502",
+            "quantity": 3,
+            "unit_price_excl_vat": 20.98,
+            "total_price_excl_vat": 62.94,
+            "vat_amount": 2.78
+        }
+    ],
+    "subtotal": 1370.22,
+    "vat": 737.3699999999999,
+    "total": 2107.59
+}

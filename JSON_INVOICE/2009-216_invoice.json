@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2009-216",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Kerkstraat 902",
+        "postcode": "1603 AA",
+        "stad": "Utrecht",
+        "KVK-nummer": "88175630"
+    },
+    "invoice_date": "25-12-2020",
+    "products": [
+        {
+            "product_name": "Logitech gaming mouse G502 LIGHTSPEED",
+            "quantity": 5,
+            "unit_price_excl_vat": 382.59,
+            "total_price_excl_vat": 1912.9499999999998,
+            "vat_amount": 1536.86
+        },
+        {
+            "product_name": "HP EliteDisplay E233",
+            "quantity": 3,
+            "unit_price_excl_vat": 421.13,
+            "total_price_excl_vat": 1263.3899999999999,
+            "vat_amount": 1117.34
+        },
+        {
+            "product_name": "HP EliteDisplay E243",
+            "quantity": 5,
+            "unit_price_excl_vat": 32.76,
+            "total_price_excl_vat": 163.79999999999998,
+            "vat_amount": 11.27
+        },
+        {
+            "product_name": "Lenovo Thinkpad T14",
+            "quantity": 5,
+            "unit_price_excl_vat": 272.83,
+            "total_price_excl_vat": 1364.1499999999999,
+            "vat_amount": 781.52
+        }
+    ],
+    "subtotal": 4704.29,
+    "vat": 3446.99,
+    "total": 8151.28
+}

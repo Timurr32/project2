@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2011-449",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Kerkstraat 424",
+        "postcode": "4824 AA",
+        "stad": "Utrecht",
+        "KVK-nummer": "84018503"
+    },
+    "invoice_date": "04-04-2023",
+    "products": [
+        {
+            "product_name": "Razor gaming keyboard ULTIMATE",
+            "quantity": 3,
+            "unit_price_excl_vat": 200.25,
+            "total_price_excl_vat": 600.75,
+            "vat_amount": 252.62
+        }
+    ],
+    "subtotal": 600.75,
+    "vat": 252.62,
+    "total": 853.37
+}

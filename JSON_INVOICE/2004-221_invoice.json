@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2004-221",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Schoolstraat 579",
+        "postcode": "1982 AC",
+        "stad": "Utrecht",
+        "KVK-nummer": "19558812"
+    },
+    "invoice_date": "13-09-2021",
+    "products": [
+        {
+            "product_name": "MSI AERO 32G OC",
+            "quantity": 3,
+            "unit_price_excl_vat": 210.43,
+            "total_price_excl_vat": 631.29,
+            "vat_amount": 278.97
+        },
+        {
+            "product_name": "Razor gaming keyboard ULTIMATE",
+            "quantity": 1,
+            "unit_price_excl_vat": 391.94,
+            "total_price_excl_vat": 391.94,
+            "vat_amount": 322.61
+        },
+        {
+            "product_name": "MSI AERO 32G OC",
+            "quantity": 2,
+            "unit_price_excl_vat": 20.96,
+            "total_price_excl_vat": 41.92,
+            "vat_amount": 1.84
+        },
+        {
+            "product_name": "Logitech gaming mouse G502 HERO",
+            "quantity": 5,
+            "unit_price_excl_vat": 45.06,
+            "total_price_excl_vat": 225.3,
+            "vat_amount": 21.31
+        }
+    ],
+    "subtotal": 1290.45,
+    "vat": 624.73,
+    "total": 1915.18
+}

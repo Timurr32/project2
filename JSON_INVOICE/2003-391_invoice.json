@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2003-391",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Hoofdstraat 597",
+        "postcode": "8952 AA",
+        "stad": "Rotterdam",
+        "KVK-nummer": "57392598"
+    },
+    "invoice_date": "11-04-2024",
+    "products": [
+        {
+            "product_name": "HP EliteDisplay E243",
+            "quantity": 4,
+            "unit_price_excl_vat": 358.7,
+            "total_price_excl_vat": 1434.8,
+            "vat_amount": 1080.83
+        },
+        {
+            "product_name": "MSI AERO 64G OC",
+            "quantity": 1,
+            "unit_price_excl_vat": 137.38,
+            "total_price_excl_vat": 137.38,
+            "vat_amount": 39.63
+        },
+        {
+            "product_name": "HP EliteDisplay E243",
+            "quantity": 1,
+            "unit_price_excl_vat": 387.21,
+            "total_price_excl_vat": 387.21,
+            "vat_amount": 314.84
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 2,
+            "unit_price_excl_vat": 301.48,
+            "total_price_excl_vat": 602.96,
+            "vat_amount": 381.73
+        }
+    ],
+    "subtotal": 2562.35,
+    "vat": 1817.03,
+    "total": 4379.38
+}

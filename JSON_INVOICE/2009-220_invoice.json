@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2009-220",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Schoolstraat 435",
+        "postcode": "3129 AA",
+        "stad": "Rotterdam",
+        "KVK-nummer": "17440202"
+    },
+    "invoice_date": "04-05-2024",
+    "products": [
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 3,
+            "unit_price_excl_vat": 487.79,
+            "total_price_excl_vat": 1463.3700000000001,
+            "vat_amount": 1499.08
+        }
+    ],
+    "subtotal": 1463.3700000000001,
+    "vat": 1499.08,
+    "total": 2962.45
+}

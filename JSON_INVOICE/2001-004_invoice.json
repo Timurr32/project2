@@ -1,0 +1,51 @@
+{
+    "invoice_id": "FACT-2001-004",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Kerkstraat 279",
+        "postcode": "9035 AC",
+        "stad": "Amsterdam",
+        "KVK-nummer": "63697844"
+    },
+    "invoice_date": "03-06-2020",
+    "products": [
+        {
+            "product_name": "Dell UltraSharp U2719DC",
+            "quantity": 4,
+            "unit_price_excl_vat": 133.64,
+            "total_price_excl_vat": 534.56,
+            "vat_amount": 150.0
+        },
+        {
+            "product_name": "Lenovo Thinkpad T14s",
+            "quantity": 2,
+            "unit_price_excl_vat": 127.78,
+            "total_price_excl_vat": 255.56,
+            "vat_amount": 68.57
+        },
+        {
+            "product_name": "Lenovo Thinkpad T15",
+            "quantity": 4,
+            "unit_price_excl_vat": 383.76,
+            "total_price_excl_vat": 1535.04,
+            "vat_amount": 1237.09
+        },
+        {
+            "product_name": "Lenovo Thinkpad T14",
+            "quantity": 5,
+            "unit_price_excl_vat": 48.19,
+            "total_price_excl_vat": 240.95,
+            "vat_amount": 24.38
+        },
+        {
+            "product_name": "Logitech gaming mouse G502 LIGHTSPEED",
+            "quantity": 2,
+            "unit_price_excl_vat": 475.87,
+            "total_price_excl_vat": 951.74,
+            "vat_amount": 951.07
+        }
+    ],
+    "subtotal": 3517.8499999999995,
+    "vat": 2431.11,
+    "total": 5948.959999999999
+}

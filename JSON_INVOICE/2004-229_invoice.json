@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2004-229",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Schoolstraat 234",
+        "postcode": "9139 AC",
+        "stad": "Rotterdam",
+        "KVK-nummer": "73927748"
+    },
+    "invoice_date": "17-08-2020",
+    "products": [
+        {
+            "product_name": "Logitech gaming mouse G502 LIGHTSPEED",
+            "quantity": 5,
+            "unit_price_excl_vat": 107.45,
+            "total_price_excl_vat": 537.25,
+            "vat_amount": 121.2
+        },
+        {
+            "product_name": "Lenovo Thinkpad T14",
+            "quantity": 5,
+            "unit_price_excl_vat": 240.09,
+            "total_price_excl_vat": 1200.45,
+            "vat_amount": 605.27
+        },
+        {
+            "product_name": "Dell UltraSharp U2719DC",
+            "quantity": 1,
+            "unit_price_excl_vat": 444.06,
+            "total_price_excl_vat": 444.06,
+            "vat_amount": 414.09
+        },
+        {
+            "product_name": "Lenovo Thinkpad T15",
+            "quantity": 2,
+            "unit_price_excl_vat": 182.27,
+            "total_price_excl_vat": 364.54,
+            "vat_amount": 139.55
+        }
+    ],
+    "subtotal": 2546.3,
+    "vat": 1280.11,
+    "total": 3826.41
+}

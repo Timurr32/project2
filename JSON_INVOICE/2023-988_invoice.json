@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2023-988",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Schoolstraat 173",
+        "postcode": "4967 AC",
+        "stad": "Rotterdam",
+        "KVK-nummer": "16795827"
+    },
+    "invoice_date": "26-03-2021",
+    "products": [
+        {
+            "product_name": "MSI AERO 32G OC",
+            "quantity": 4,
+            "unit_price_excl_vat": 208.31,
+            "total_price_excl_vat": 833.24,
+            "vat_amount": 364.54
+        },
+        {
+            "product_name": "MSI AERO 64G OC",
+            "quantity": 5,
+            "unit_price_excl_vat": 423.56,
+            "total_price_excl_vat": 2117.8,
+            "vat_amount": 1883.78
+        },
+        {
+            "product_name": "Dell UltraSharp U2419H",
+            "quantity": 1,
+            "unit_price_excl_vat": 329.61,
+            "total_price_excl_vat": 329.61,
+            "vat_amount": 228.16
+        },
+        {
+            "product_name": "Logitech gaming mouse G502 HERO",
+            "quantity": 1,
+            "unit_price_excl_vat": 450.5,
+            "total_price_excl_vat": 450.5,
+            "vat_amount": 426.17
+        }
+    ],
+    "subtotal": 3731.15,
+    "vat": 2902.65,
+    "total": 6633.8
+}

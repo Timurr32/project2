@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2007-795",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Schoolstraat 993",
+        "postcode": "2226 AC",
+        "stad": "Rotterdam",
+        "KVK-nummer": "19102278"
+    },
+    "invoice_date": "11-01-2020",
+    "products": [
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 5,
+            "unit_price_excl_vat": 13.51,
+            "total_price_excl_vat": 67.55,
+            "vat_amount": 1.92
+        }
+    ],
+    "subtotal": 67.55,
+    "vat": 1.92,
+    "total": 69.47
+}

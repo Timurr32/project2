@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2009-116",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Hoofdstraat 719",
+        "postcode": "2823 AA",
+        "stad": "Amsterdam",
+        "KVK-nummer": "87500665"
+    },
+    "invoice_date": "08-04-2021",
+    "products": [
+        {
+            "product_name": "Logitech gaming mouse G502",
+            "quantity": 2,
+            "unit_price_excl_vat": 205.01,
+            "total_price_excl_vat": 410.02,
+            "vat_amount": 176.51
+        }
+    ],
+    "subtotal": 410.02,
+    "vat": 176.51,
+    "total": 586.53
+}

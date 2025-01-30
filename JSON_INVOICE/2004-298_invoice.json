@@ -1,0 +1,37 @@
+{
+    "invoice_id": "FACT-2004-298",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Hoofdstraat 813",
+        "postcode": "7880 AB",
+        "stad": "Amsterdam",
+        "KVK-nummer": "54031465"
+    },
+    "invoice_date": "21-03-2024",
+    "products": [
+        {
+            "product_name": "Dell UltraSharp U2419H",
+            "quantity": 2,
+            "unit_price_excl_vat": 371.38,
+            "total_price_excl_vat": 742.76,
+            "vat_amount": 579.28
+        },
+        {
+            "product_name": "Lenovo Thinkpad T15",
+            "quantity": 5,
+            "unit_price_excl_vat": 391.1,
+            "total_price_excl_vat": 1955.5,
+            "vat_amount": 1606.05
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 2,
+            "unit_price_excl_vat": 416.86,
+            "total_price_excl_vat": 833.72,
+            "vat_amount": 729.84
+        }
+    ],
+    "subtotal": 3531.9800000000005,
+    "vat": 2915.17,
+    "total": 6447.150000000001
+}

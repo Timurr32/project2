@@ -1,0 +1,51 @@
+{
+    "invoice_id": "FACT-2002-590",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Kerkstraat 254",
+        "postcode": "3939 AC",
+        "stad": "Utrecht",
+        "KVK-nummer": "46847806"
+    },
+    "invoice_date": "06-02-2021",
+    "products": [
+        {
+            "product_name": "Dell UltraSharp U2419H",
+            "quantity": 4,
+            "unit_price_excl_vat": 387.1,
+            "total_price_excl_vat": 1548.4,
+            "vat_amount": 1258.69
+        },
+        {
+            "product_name": "Logitech gaming mouse G502 HERO",
+            "quantity": 2,
+            "unit_price_excl_vat": 243.99,
+            "total_price_excl_vat": 487.98,
+            "vat_amount": 250.04
+        },
+        {
+            "product_name": "Razor gaming keyboard",
+            "quantity": 2,
+            "unit_price_excl_vat": 319.97,
+            "total_price_excl_vat": 639.94,
+            "vat_amount": 429.98
+        },
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 3,
+            "unit_price_excl_vat": 103.25,
+            "total_price_excl_vat": 309.75,
+            "vat_amount": 67.15
+        },
+        {
+            "product_name": "Logitech gaming mouse G502 LIGHTSPEED",
+            "quantity": 4,
+            "unit_price_excl_vat": 311.81,
+            "total_price_excl_vat": 1247.24,
+            "vat_amount": 816.69
+        }
+    ],
+    "subtotal": 4233.31,
+    "vat": 2822.55,
+    "total": 7055.860000000001
+}

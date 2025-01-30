@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2008-681",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Schoolstraat 155",
+        "postcode": "5032 AA",
+        "stad": "Amsterdam",
+        "KVK-nummer": "88755583"
+    },
+    "invoice_date": "12-05-2020",
+    "products": [
+        {
+            "product_name": "HP EliteDisplay E243",
+            "quantity": 3,
+            "unit_price_excl_vat": 495.74,
+            "total_price_excl_vat": 1487.22,
+            "vat_amount": 1548.34
+        }
+    ],
+    "subtotal": 1487.22,
+    "vat": 1548.34,
+    "total": 3035.56
+}

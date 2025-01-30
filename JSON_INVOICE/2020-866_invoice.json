@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2020-866",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Kerkstraat 494",
+        "postcode": "1788 AB",
+        "stad": "Rotterdam",
+        "KVK-nummer": "39477318"
+    },
+    "invoice_date": "02-08-2021",
+    "products": [
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 1,
+            "unit_price_excl_vat": 426.16,
+            "total_price_excl_vat": 426.16,
+            "vat_amount": 381.37
+        },
+        {
+            "product_name": "MSI AERO 64G OC",
+            "quantity": 2,
+            "unit_price_excl_vat": 493.86,
+            "total_price_excl_vat": 987.72,
+            "vat_amount": 1024.36
+        },
+        {
+            "product_name": "MSI AERO 16G OC",
+            "quantity": 1,
+            "unit_price_excl_vat": 97.76,
+            "total_price_excl_vat": 97.76,
+            "vat_amount": 20.07
+        },
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 5,
+            "unit_price_excl_vat": 53.29,
+            "total_price_excl_vat": 266.45,
+            "vat_amount": 29.82
+        }
+    ],
+    "subtotal": 1778.0900000000001,
+    "vat": 1455.62,
+    "total": 3233.71
+}

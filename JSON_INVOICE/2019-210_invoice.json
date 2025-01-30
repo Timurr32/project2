@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2019-210",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Schoolstraat 335",
+        "postcode": "7458 AC",
+        "stad": "Utrecht",
+        "KVK-nummer": "67324682"
+    },
+    "invoice_date": "06-06-2022",
+    "products": [
+        {
+            "product_name": "MSI AERO 32G OC",
+            "quantity": 5,
+            "unit_price_excl_vat": 253.6,
+            "total_price_excl_vat": 1268.0,
+            "vat_amount": 675.34
+        }
+    ],
+    "subtotal": 1268.0,
+    "vat": 675.34,
+    "total": 1943.3400000000001
+}

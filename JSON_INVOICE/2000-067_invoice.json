@@ -1,0 +1,51 @@
+{
+    "invoice_id": "FACT-2000-067",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Schoolstraat 277",
+        "postcode": "1772 AC",
+        "stad": "Utrecht",
+        "KVK-nummer": "16863090"
+    },
+    "invoice_date": "03-02-2023",
+    "products": [
+        {
+            "product_name": "MSI AERO 32G OC",
+            "quantity": 3,
+            "unit_price_excl_vat": 441.03,
+            "total_price_excl_vat": 1323.09,
+            "vat_amount": 1225.45
+        },
+        {
+            "product_name": "Logitech gaming mouse G502",
+            "quantity": 4,
+            "unit_price_excl_vat": 448.72,
+            "total_price_excl_vat": 1794.88,
+            "vat_amount": 1691.32
+        },
+        {
+            "product_name": "HP EliteDisplay E243",
+            "quantity": 3,
+            "unit_price_excl_vat": 303.0,
+            "total_price_excl_vat": 909.0,
+            "vat_amount": 578.4
+        },
+        {
+            "product_name": "Dell UltraSharp U2719DC",
+            "quantity": 4,
+            "unit_price_excl_vat": 370.84,
+            "total_price_excl_vat": 1483.36,
+            "vat_amount": 1155.24
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 3,
+            "unit_price_excl_vat": 133.25,
+            "total_price_excl_vat": 399.75,
+            "vat_amount": 111.85
+        }
+    ],
+    "subtotal": 5910.08,
+    "vat": 4762.26,
+    "total": 10672.34
+}

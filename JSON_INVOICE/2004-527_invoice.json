@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2004-527",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Kerkstraat 2",
+        "postcode": "8242 AB",
+        "stad": "Rotterdam",
+        "KVK-nummer": "64971468"
+    },
+    "invoice_date": "09-09-2020",
+    "products": [
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 4,
+            "unit_price_excl_vat": 448.49,
+            "total_price_excl_vat": 1793.96,
+            "vat_amount": 1689.55
+        },
+        {
+            "product_name": "Dell UltraSharp U2719DC",
+            "quantity": 1,
+            "unit_price_excl_vat": 36.17,
+            "total_price_excl_vat": 36.17,
+            "vat_amount": 2.75
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 3,
+            "unit_price_excl_vat": 404.31,
+            "total_price_excl_vat": 1212.93,
+            "vat_amount": 1029.9
+        },
+        {
+            "product_name": "MSI AERO 64G OC",
+            "quantity": 1,
+            "unit_price_excl_vat": 342.13,
+            "total_price_excl_vat": 342.13,
+            "vat_amount": 245.82
+        }
+    ],
+    "subtotal": 3385.1900000000005,
+    "vat": 2968.02,
+    "total": 6353.210000000001
+}

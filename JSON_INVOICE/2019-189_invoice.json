@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2019-189",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Kerkstraat 134",
+        "postcode": "6008 AC",
+        "stad": "Amsterdam",
+        "KVK-nummer": "29587735"
+    },
+    "invoice_date": "15-04-2024",
+    "products": [
+        {
+            "product_name": "Razor gaming keyboard",
+            "quantity": 2,
+            "unit_price_excl_vat": 293.18,
+            "total_price_excl_vat": 586.36,
+            "vat_amount": 361.02
+        }
+    ],
+    "subtotal": 586.36,
+    "vat": 361.02,
+    "total": 947.38
+}

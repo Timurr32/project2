@@ -1,0 +1,37 @@
+{
+    "invoice_id": "FACT-2009-198",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Hoofdstraat 234",
+        "postcode": "4704 AA",
+        "stad": "Utrecht",
+        "KVK-nummer": "46665425"
+    },
+    "invoice_date": "17-01-2023",
+    "products": [
+        {
+            "product_name": "Lenovo Thinkpad T15",
+            "quantity": 1,
+            "unit_price_excl_vat": 364.61,
+            "total_price_excl_vat": 364.61,
+            "vat_amount": 279.18
+        },
+        {
+            "product_name": "HP EliteDisplay E233",
+            "quantity": 2,
+            "unit_price_excl_vat": 92.97,
+            "total_price_excl_vat": 185.94,
+            "vat_amount": 36.3
+        },
+        {
+            "product_name": "Dell UltraSharp U2719DC",
+            "quantity": 4,
+            "unit_price_excl_vat": 311.59,
+            "total_price_excl_vat": 1246.36,
+            "vat_amount": 815.49
+        }
+    ],
+    "subtotal": 1796.9099999999999,
+    "vat": 1130.97,
+    "total": 2927.88
+}

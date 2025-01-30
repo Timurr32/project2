@@ -1,0 +1,30 @@
+{
+    "invoice_id": "FACT-2022-814",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Kerkstraat 55",
+        "postcode": "2973 AC",
+        "stad": "Amsterdam",
+        "KVK-nummer": "23381187"
+    },
+    "invoice_date": "14-05-2024",
+    "products": [
+        {
+            "product_name": "Dell UltraSharp U2719DC",
+            "quantity": 5,
+            "unit_price_excl_vat": 385.45,
+            "total_price_excl_vat": 1927.25,
+            "vat_amount": 1559.92
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 1,
+            "unit_price_excl_vat": 280.45,
+            "total_price_excl_vat": 280.45,
+            "vat_amount": 165.16
+        }
+    ],
+    "subtotal": 2207.7,
+    "vat": 1725.0800000000002,
+    "total": 3932.7799999999997
+}

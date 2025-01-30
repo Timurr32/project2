@@ -1,0 +1,37 @@
+{
+    "invoice_id": "FACT-2000-270",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Hoofdstraat 545",
+        "postcode": "3058 AC",
+        "stad": "Rotterdam",
+        "KVK-nummer": "20830473"
+    },
+    "invoice_date": "23-11-2021",
+    "products": [
+        {
+            "product_name": "MSI AERO 32G OC",
+            "quantity": 1,
+            "unit_price_excl_vat": 45.17,
+            "total_price_excl_vat": 45.17,
+            "vat_amount": 4.29
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 2,
+            "unit_price_excl_vat": 276.65,
+            "total_price_excl_vat": 553.3,
+            "vat_amount": 321.47
+        },
+        {
+            "product_name": "Lenovo Thinkpad T14",
+            "quantity": 3,
+            "unit_price_excl_vat": 427.75,
+            "total_price_excl_vat": 1283.25,
+            "vat_amount": 1152.74
+        }
+    ],
+    "subtotal": 1881.7199999999998,
+    "vat": 1478.5,
+    "total": 3360.22
+}

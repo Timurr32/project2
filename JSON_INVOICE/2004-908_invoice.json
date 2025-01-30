@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2004-908",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Schoolstraat 200",
+        "postcode": "2169 AB",
+        "stad": "Amsterdam",
+        "KVK-nummer": "10507816"
+    },
+    "invoice_date": "15-01-2024",
+    "products": [
+        {
+            "product_name": "Logitech gaming mouse G502",
+            "quantity": 4,
+            "unit_price_excl_vat": 310.86,
+            "total_price_excl_vat": 1243.44,
+            "vat_amount": 811.72
+        },
+        {
+            "product_name": "Logitech gaming mouse G502 LIGHTSPEED",
+            "quantity": 2,
+            "unit_price_excl_vat": 173.54,
+            "total_price_excl_vat": 347.08,
+            "vat_amount": 126.48
+        },
+        {
+            "product_name": "Logitech gaming mouse G502 HERO",
+            "quantity": 2,
+            "unit_price_excl_vat": 381.57,
+            "total_price_excl_vat": 763.14,
+            "vat_amount": 611.5
+        },
+        {
+            "product_name": "Lenovo Thinkpad T15",
+            "quantity": 1,
+            "unit_price_excl_vat": 62.03,
+            "total_price_excl_vat": 62.03,
+            "vat_amount": 8.08
+        }
+    ],
+    "subtotal": 2415.69,
+    "vat": 1557.78,
+    "total": 3973.4700000000003
+}

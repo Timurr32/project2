@@ -1,0 +1,51 @@
+{
+    "invoice_id": "FACT-2000-961",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Kerkstraat 527",
+        "postcode": "5177 AB",
+        "stad": "Amsterdam",
+        "KVK-nummer": "88021244"
+    },
+    "invoice_date": "01-09-2023",
+    "products": [
+        {
+            "product_name": "HP EliteDisplay E243",
+            "quantity": 1,
+            "unit_price_excl_vat": 367.21,
+            "total_price_excl_vat": 367.21,
+            "vat_amount": 283.16
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 2,
+            "unit_price_excl_vat": 419.13,
+            "total_price_excl_vat": 838.26,
+            "vat_amount": 737.84
+        },
+        {
+            "product_name": "HP EliteDisplay E223",
+            "quantity": 2,
+            "unit_price_excl_vat": 222.13,
+            "total_price_excl_vat": 444.26,
+            "vat_amount": 207.25
+        },
+        {
+            "product_name": "Logitech gaming mouse G502",
+            "quantity": 5,
+            "unit_price_excl_vat": 266.87,
+            "total_price_excl_vat": 1334.35,
+            "vat_amount": 747.77
+        },
+        {
+            "product_name": "MSI AERO 16G OC",
+            "quantity": 2,
+            "unit_price_excl_vat": 408.2,
+            "total_price_excl_vat": 816.4,
+            "vat_amount": 699.82
+        }
+    ],
+    "subtotal": 3800.48,
+    "vat": 2675.84,
+    "total": 6476.32
+}

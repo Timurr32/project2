@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2016-620",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Schoolstraat 973",
+        "postcode": "3690 AA",
+        "stad": "Rotterdam",
+        "KVK-nummer": "64587434"
+    },
+    "invoice_date": "16-05-2021",
+    "products": [
+        {
+            "product_name": "Logitech gaming mouse G502 HERO",
+            "quantity": 2,
+            "unit_price_excl_vat": 237.86,
+            "total_price_excl_vat": 475.72,
+            "vat_amount": 237.62
+        }
+    ],
+    "subtotal": 475.72,
+    "vat": 237.62,
+    "total": 713.34
+}

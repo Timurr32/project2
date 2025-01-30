@@ -1,0 +1,51 @@
+{
+    "invoice_id": "FACT-2007-745",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Hoofdstraat 708",
+        "postcode": "4794 AB",
+        "stad": "Rotterdam",
+        "KVK-nummer": "31445903"
+    },
+    "invoice_date": "21-02-2023",
+    "products": [
+        {
+            "product_name": "Razor gaming keyboard ULTIMATE",
+            "quantity": 4,
+            "unit_price_excl_vat": 124.34,
+            "total_price_excl_vat": 497.36,
+            "vat_amount": 129.86
+        },
+        {
+            "product_name": "Lenovo Thinkpad T14s",
+            "quantity": 2,
+            "unit_price_excl_vat": 498.25,
+            "total_price_excl_vat": 996.5,
+            "vat_amount": 1042.64
+        },
+        {
+            "product_name": "MSI AERO 32G OC",
+            "quantity": 1,
+            "unit_price_excl_vat": 360.43,
+            "total_price_excl_vat": 360.43,
+            "vat_amount": 272.81
+        },
+        {
+            "product_name": "HP EliteDisplay E243",
+            "quantity": 1,
+            "unit_price_excl_vat": 120.92,
+            "total_price_excl_vat": 120.92,
+            "vat_amount": 30.7
+        },
+        {
+            "product_name": "Dell UltraSharp U2419H",
+            "quantity": 1,
+            "unit_price_excl_vat": 47.97,
+            "total_price_excl_vat": 47.97,
+            "vat_amount": 4.83
+        }
+    ],
+    "subtotal": 2023.1800000000003,
+    "vat": 1480.84,
+    "total": 3504.0200000000004
+}

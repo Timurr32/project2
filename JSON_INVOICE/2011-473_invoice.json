@@ -1,0 +1,30 @@
+{
+    "invoice_id": "FACT-2011-473",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Schoolstraat 298",
+        "postcode": "9988 AC",
+        "stad": "Utrecht",
+        "KVK-nummer": "52182750"
+    },
+    "invoice_date": "10-09-2020",
+    "products": [
+        {
+            "product_name": "MSI AERO 32G OC",
+            "quantity": 2,
+            "unit_price_excl_vat": 268.99,
+            "total_price_excl_vat": 537.98,
+            "vat_amount": 303.9
+        },
+        {
+            "product_name": "MSI AERO 16G OC",
+            "quantity": 4,
+            "unit_price_excl_vat": 437.33,
+            "total_price_excl_vat": 1749.32,
+            "vat_amount": 1606.58
+        }
+    ],
+    "subtotal": 2287.3,
+    "vat": 1910.48,
+    "total": 4197.780000000001
+}

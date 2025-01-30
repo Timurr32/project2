@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2004-122",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Schoolstraat 616",
+        "postcode": "9056 AC",
+        "stad": "Utrecht",
+        "KVK-nummer": "68175295"
+    },
+    "invoice_date": "21-01-2023",
+    "products": [
+        {
+            "product_name": "Dell UltraSharp U2719DC",
+            "quantity": 3,
+            "unit_price_excl_vat": 430.13,
+            "total_price_excl_vat": 1290.3899999999999,
+            "vat_amount": 1165.61
+        },
+        {
+            "product_name": "MSI AERO 16G OC",
+            "quantity": 1,
+            "unit_price_excl_vat": 318.7,
+            "total_price_excl_vat": 318.7,
+            "vat_amount": 213.31
+        },
+        {
+            "product_name": "Razor gaming keyboard",
+            "quantity": 3,
+            "unit_price_excl_vat": 377.28,
+            "total_price_excl_vat": 1131.84,
+            "vat_amount": 896.76
+        },
+        {
+            "product_name": "HP EliteDisplay E223",
+            "quantity": 4,
+            "unit_price_excl_vat": 235.34,
+            "total_price_excl_vat": 941.36,
+            "vat_amount": 465.22
+        }
+    ],
+    "subtotal": 3682.29,
+    "vat": 2740.8999999999996,
+    "total": 6423.19
+}

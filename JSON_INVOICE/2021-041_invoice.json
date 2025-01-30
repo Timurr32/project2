@@ -1,0 +1,30 @@
+{
+    "invoice_id": "FACT-2021-041",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Hoofdstraat 367",
+        "postcode": "2385 AC",
+        "stad": "Utrecht",
+        "KVK-nummer": "24007979"
+    },
+    "invoice_date": "09-03-2022",
+    "products": [
+        {
+            "product_name": "HP EliteDisplay E223",
+            "quantity": 4,
+            "unit_price_excl_vat": 431.02,
+            "total_price_excl_vat": 1724.08,
+            "vat_amount": 1560.46
+        },
+        {
+            "product_name": "HP EliteDisplay E243",
+            "quantity": 3,
+            "unit_price_excl_vat": 257.72,
+            "total_price_excl_vat": 773.1600000000001,
+            "vat_amount": 418.43
+        }
+    ],
+    "subtotal": 2497.24,
+    "vat": 1978.89,
+    "total": 4476.13
+}

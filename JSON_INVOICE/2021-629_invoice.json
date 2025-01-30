@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2021-629",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Hoofdstraat 307",
+        "postcode": "6681 AA",
+        "stad": "Rotterdam",
+        "KVK-nummer": "40902442"
+    },
+    "invoice_date": "24-10-2022",
+    "products": [
+        {
+            "product_name": "Razor gaming keyboard ULTIMATE",
+            "quantity": 4,
+            "unit_price_excl_vat": 358.53,
+            "total_price_excl_vat": 1434.12,
+            "vat_amount": 1079.75
+        },
+        {
+            "product_name": "HP EliteDisplay E243",
+            "quantity": 5,
+            "unit_price_excl_vat": 261.65,
+            "total_price_excl_vat": 1308.25,
+            "vat_amount": 718.88
+        },
+        {
+            "product_name": "HP EliteDisplay E223",
+            "quantity": 4,
+            "unit_price_excl_vat": 248.9,
+            "total_price_excl_vat": 995.6,
+            "vat_amount": 520.4
+        },
+        {
+            "product_name": "HP EliteDisplay E223",
+            "quantity": 1,
+            "unit_price_excl_vat": 487.79,
+            "total_price_excl_vat": 487.79,
+            "vat_amount": 499.69
+        }
+    ],
+    "subtotal": 4225.76,
+    "vat": 2818.7200000000003,
+    "total": 7044.4800000000005
+}

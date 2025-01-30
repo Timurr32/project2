@@ -1,0 +1,30 @@
+{
+    "invoice_id": "FACT-2022-927",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Schoolstraat 22",
+        "postcode": "9586 AB",
+        "stad": "Amsterdam",
+        "KVK-nummer": "12224803"
+    },
+    "invoice_date": "02-11-2021",
+    "products": [
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 2,
+            "unit_price_excl_vat": 272.35,
+            "total_price_excl_vat": 544.7,
+            "vat_amount": 311.51
+        },
+        {
+            "product_name": "Logitech gaming mouse G502",
+            "quantity": 1,
+            "unit_price_excl_vat": 67.02,
+            "total_price_excl_vat": 67.02,
+            "vat_amount": 9.43
+        }
+    ],
+    "subtotal": 611.72,
+    "vat": 320.94,
+    "total": 932.6600000000001
+}

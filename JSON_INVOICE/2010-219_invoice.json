@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2010-219",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Hoofdstraat 188",
+        "postcode": "3316 AB",
+        "stad": "Amsterdam",
+        "KVK-nummer": "63558380"
+    },
+    "invoice_date": "10-01-2020",
+    "products": [
+        {
+            "product_name": "Logitech gaming mouse G502 HERO",
+            "quantity": 4,
+            "unit_price_excl_vat": 90.08,
+            "total_price_excl_vat": 360.32,
+            "vat_amount": 68.17
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 1,
+            "unit_price_excl_vat": 211.39,
+            "total_price_excl_vat": 211.39,
+            "vat_amount": 93.84
+        },
+        {
+            "product_name": "Dell UltraSharp U2719DC",
+            "quantity": 4,
+            "unit_price_excl_vat": 378.9,
+            "total_price_excl_vat": 1515.6,
+            "vat_amount": 1205.96
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 3,
+            "unit_price_excl_vat": 329.98,
+            "total_price_excl_vat": 989.94,
+            "vat_amount": 686.03
+        }
+    ],
+    "subtotal": 3077.25,
+    "vat": 2054.0,
+    "total": 5131.25
+}

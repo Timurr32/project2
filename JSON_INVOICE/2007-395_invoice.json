@@ -1,0 +1,51 @@
+{
+    "invoice_id": "FACT-2007-395",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Hoofdstraat 828",
+        "postcode": "1236 AB",
+        "stad": "Utrecht",
+        "KVK-nummer": "24232832"
+    },
+    "invoice_date": "28-07-2020",
+    "products": [
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 3,
+            "unit_price_excl_vat": 287.71,
+            "total_price_excl_vat": 863.1299999999999,
+            "vat_amount": 521.5
+        },
+        {
+            "product_name": "Lenovo Thinkpad T14s",
+            "quantity": 5,
+            "unit_price_excl_vat": 69.87,
+            "total_price_excl_vat": 349.35,
+            "vat_amount": 51.25
+        },
+        {
+            "product_name": "HP EliteDisplay E223",
+            "quantity": 1,
+            "unit_price_excl_vat": 375.14,
+            "total_price_excl_vat": 375.14,
+            "vat_amount": 295.54
+        },
+        {
+            "product_name": "MSI AERO 32G OC",
+            "quantity": 2,
+            "unit_price_excl_vat": 465.74,
+            "total_price_excl_vat": 931.48,
+            "vat_amount": 911.08
+        },
+        {
+            "product_name": "HP EliteDisplay E243",
+            "quantity": 5,
+            "unit_price_excl_vat": 172.86,
+            "total_price_excl_vat": 864.3000000000001,
+            "vat_amount": 313.74
+        }
+    ],
+    "subtotal": 3383.4,
+    "vat": 2093.1099999999997,
+    "total": 5476.51
+}

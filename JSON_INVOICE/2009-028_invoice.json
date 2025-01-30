@@ -1,0 +1,51 @@
+{
+    "invoice_id": "FACT-2009-028",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Hoofdstraat 677",
+        "postcode": "9863 AC",
+        "stad": "Utrecht",
+        "KVK-nummer": "45087896"
+    },
+    "invoice_date": "14-01-2023",
+    "products": [
+        {
+            "product_name": "HP EliteDisplay E223",
+            "quantity": 3,
+            "unit_price_excl_vat": 370.82,
+            "total_price_excl_vat": 1112.46,
+            "vat_amount": 866.27
+        },
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 4,
+            "unit_price_excl_vat": 131.01,
+            "total_price_excl_vat": 524.04,
+            "vat_amount": 144.16
+        },
+        {
+            "product_name": "Dell UltraSharp U2719DC",
+            "quantity": 4,
+            "unit_price_excl_vat": 251.4,
+            "total_price_excl_vat": 1005.6,
+            "vat_amount": 530.86
+        },
+        {
+            "product_name": "Lenovo Thinkpad T14s",
+            "quantity": 3,
+            "unit_price_excl_vat": 411.73,
+            "total_price_excl_vat": 1235.19,
+            "vat_amount": 1067.95
+        },
+        {
+            "product_name": "HP EliteDisplay E233",
+            "quantity": 3,
+            "unit_price_excl_vat": 360.03,
+            "total_price_excl_vat": 1080.09,
+            "vat_amount": 816.66
+        }
+    ],
+    "subtotal": 4957.38,
+    "vat": 3425.8999999999996,
+    "total": 8383.279999999999
+}

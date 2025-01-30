@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2000-096",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Schoolstraat 169",
+        "postcode": "1128 AA",
+        "stad": "Amsterdam",
+        "KVK-nummer": "64293189"
+    },
+    "invoice_date": "14-05-2020",
+    "products": [
+        {
+            "product_name": "Google Cloud Platform",
+            "quantity": 3,
+            "unit_price_excl_vat": 494.88,
+            "total_price_excl_vat": 1484.6399999999999,
+            "vat_amount": 89.08
+        }
+    ],
+    "subtotal": 1484.6399999999999,
+    "vat": 89.08,
+    "total": 1573.7199999999998
+}

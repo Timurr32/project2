@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2010-635",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Hoofdstraat 990",
+        "postcode": "8437 AC",
+        "stad": "Rotterdam",
+        "KVK-nummer": "43893997"
+    },
+    "invoice_date": "01-09-2021",
+    "products": [
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 5,
+            "unit_price_excl_vat": 411.28,
+            "total_price_excl_vat": 2056.3999999999996,
+            "vat_amount": 1776.11
+        }
+    ],
+    "subtotal": 2056.3999999999996,
+    "vat": 1776.11,
+    "total": 3832.5099999999993
+}

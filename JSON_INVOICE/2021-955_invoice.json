@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2021-955",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Hoofdstraat 860",
+        "postcode": "7914 AB",
+        "stad": "Amsterdam",
+        "KVK-nummer": "44297601"
+    },
+    "invoice_date": "16-08-2024",
+    "products": [
+        {
+            "product_name": "MSI AERO 16G OC",
+            "quantity": 5,
+            "unit_price_excl_vat": 50.33,
+            "total_price_excl_vat": 251.64999999999998,
+            "vat_amount": 26.6
+        }
+    ],
+    "subtotal": 251.64999999999998,
+    "vat": 26.6,
+    "total": 278.25
+}

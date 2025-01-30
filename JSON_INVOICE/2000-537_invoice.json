@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2000-537",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Kerkstraat 686",
+        "postcode": "5285 AC",
+        "stad": "Amsterdam",
+        "KVK-nummer": "98366540"
+    },
+    "invoice_date": "16-09-2023",
+    "products": [
+        {
+            "product_name": "Logitech gaming mouse G502 LIGHTSPEED",
+            "quantity": 3,
+            "unit_price_excl_vat": 438.54,
+            "total_price_excl_vat": 1315.6200000000001,
+            "vat_amount": 1211.55
+        }
+    ],
+    "subtotal": 1315.6200000000001,
+    "vat": 1211.55,
+    "total": 2527.17
+}

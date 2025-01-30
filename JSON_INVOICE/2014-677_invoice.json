@@ -1,0 +1,37 @@
+{
+    "invoice_id": "FACT-2014-677",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Kerkstraat 850",
+        "postcode": "5910 AA",
+        "stad": "Rotterdam",
+        "KVK-nummer": "33840285"
+    },
+    "invoice_date": "16-10-2020",
+    "products": [
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 3,
+            "unit_price_excl_vat": 114.03,
+            "total_price_excl_vat": 342.09000000000003,
+            "vat_amount": 81.93
+        },
+        {
+            "product_name": "Dell UltraSharp U2719DC",
+            "quantity": 3,
+            "unit_price_excl_vat": 51.77,
+            "total_price_excl_vat": 155.31,
+            "vat_amount": 16.88
+        },
+        {
+            "product_name": "Dell UltraSharp U2719DC",
+            "quantity": 2,
+            "unit_price_excl_vat": 485.06,
+            "total_price_excl_vat": 970.12,
+            "vat_amount": 988.16
+        }
+    ],
+    "subtotal": 1467.52,
+    "vat": 1086.97,
+    "total": 2554.49
+}

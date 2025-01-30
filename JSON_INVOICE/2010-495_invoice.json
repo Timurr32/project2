@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2010-495",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Kerkstraat 817",
+        "postcode": "3279 AB",
+        "stad": "Amsterdam",
+        "KVK-nummer": "33124876"
+    },
+    "invoice_date": "09-01-2020",
+    "products": [
+        {
+            "product_name": "Lenovo Thinkpad T14s",
+            "quantity": 3,
+            "unit_price_excl_vat": 306.27,
+            "total_price_excl_vat": 918.81,
+            "vat_amount": 590.98
+        }
+    ],
+    "subtotal": 918.81,
+    "vat": 590.98,
+    "total": 1509.79
+}

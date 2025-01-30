@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2003-121",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Hoofdstraat 559",
+        "postcode": "4247 AC",
+        "stad": "Rotterdam",
+        "KVK-nummer": "27903336"
+    },
+    "invoice_date": "23-09-2020",
+    "products": [
+        {
+            "product_name": "Lenovo Thinkpad T14",
+            "quantity": 1,
+            "unit_price_excl_vat": 229.68,
+            "total_price_excl_vat": 229.68,
+            "vat_amount": 110.77
+        }
+    ],
+    "subtotal": 229.68,
+    "vat": 110.77,
+    "total": 340.45
+}

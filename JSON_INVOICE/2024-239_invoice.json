@@ -1,0 +1,37 @@
+{
+    "invoice_id": "FACT-2024-239",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Hoofdstraat 579",
+        "postcode": "4170 AC",
+        "stad": "Amsterdam",
+        "KVK-nummer": "83410489"
+    },
+    "invoice_date": "16-07-2021",
+    "products": [
+        {
+            "product_name": "MSI AERO 16G OC",
+            "quantity": 2,
+            "unit_price_excl_vat": 349.61,
+            "total_price_excl_vat": 699.22,
+            "vat_amount": 513.37
+        },
+        {
+            "product_name": "HP EliteDisplay E233",
+            "quantity": 3,
+            "unit_price_excl_vat": 314.09,
+            "total_price_excl_vat": 942.27,
+            "vat_amount": 621.52
+        },
+        {
+            "product_name": "MSI AERO 32G OC",
+            "quantity": 1,
+            "unit_price_excl_vat": 171.23,
+            "total_price_excl_vat": 171.23,
+            "vat_amount": 61.57
+        }
+    ],
+    "subtotal": 1812.72,
+    "vat": 1196.4599999999998,
+    "total": 3009.18
+}

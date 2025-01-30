@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2009-545",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Hoofdstraat 206",
+        "postcode": "5424 AC",
+        "stad": "Amsterdam",
+        "KVK-nummer": "75754330"
+    },
+    "invoice_date": "25-05-2022",
+    "products": [
+        {
+            "product_name": "HP EliteDisplay E223",
+            "quantity": 1,
+            "unit_price_excl_vat": 451.42,
+            "total_price_excl_vat": 451.42,
+            "vat_amount": 427.95
+        }
+    ],
+    "subtotal": 451.42,
+    "vat": 427.95,
+    "total": 879.37
+}

@@ -1,0 +1,51 @@
+{
+    "invoice_id": "FACT-2024-682",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Kerkstraat 89",
+        "postcode": "9132 AA",
+        "stad": "Amsterdam",
+        "KVK-nummer": "20826532"
+    },
+    "invoice_date": "11-06-2024",
+    "products": [
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 3,
+            "unit_price_excl_vat": 374.88,
+            "total_price_excl_vat": 1124.6399999999999,
+            "vat_amount": 885.32
+        },
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 5,
+            "unit_price_excl_vat": 465.06,
+            "total_price_excl_vat": 2325.3,
+            "vat_amount": 2270.89
+        },
+        {
+            "product_name": "MSI AERO 64G OC",
+            "quantity": 1,
+            "unit_price_excl_vat": 332.23,
+            "total_price_excl_vat": 332.23,
+            "vat_amount": 231.8
+        },
+        {
+            "product_name": "HP EliteDisplay E223",
+            "quantity": 4,
+            "unit_price_excl_vat": 437.48,
+            "total_price_excl_vat": 1749.92,
+            "vat_amount": 1607.65
+        },
+        {
+            "product_name": "HP EliteDisplay E243",
+            "quantity": 1,
+            "unit_price_excl_vat": 418.32,
+            "total_price_excl_vat": 418.32,
+            "vat_amount": 367.49
+        }
+    ],
+    "subtotal": 5950.41,
+    "vat": 5363.15,
+    "total": 11313.56
+}

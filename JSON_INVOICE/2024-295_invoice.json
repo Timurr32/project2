@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2024-295",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Hoofdstraat 102",
+        "postcode": "2685 AC",
+        "stad": "Rotterdam",
+        "KVK-nummer": "68647180"
+    },
+    "invoice_date": "04-06-2022",
+    "products": [
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 5,
+            "unit_price_excl_vat": 423.73,
+            "total_price_excl_vat": 2118.65,
+            "vat_amount": 1885.17
+        },
+        {
+            "product_name": "Lenovo Thinkpad T14",
+            "quantity": 1,
+            "unit_price_excl_vat": 266.78,
+            "total_price_excl_vat": 266.78,
+            "vat_amount": 149.45
+        },
+        {
+            "product_name": "HP EliteDisplay E223",
+            "quantity": 1,
+            "unit_price_excl_vat": 162.74,
+            "total_price_excl_vat": 162.74,
+            "vat_amount": 55.62
+        },
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 4,
+            "unit_price_excl_vat": 307.96,
+            "total_price_excl_vat": 1231.84,
+            "vat_amount": 796.63
+        }
+    ],
+    "subtotal": 3780.01,
+    "vat": 2886.8700000000003,
+    "total": 6666.880000000001
+}

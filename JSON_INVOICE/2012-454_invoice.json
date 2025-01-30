@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2012-454",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Schoolstraat 67",
+        "postcode": "6836 AA",
+        "stad": "Amsterdam",
+        "KVK-nummer": "95453627"
+    },
+    "invoice_date": "21-05-2020",
+    "products": [
+        {
+            "product_name": "MSI AERO 64G OC",
+            "quantity": 4,
+            "unit_price_excl_vat": 10.0,
+            "total_price_excl_vat": 40.0,
+            "vat_amount": 0.84
+        },
+        {
+            "product_name": "MSI AERO 16G OC",
+            "quantity": 4,
+            "unit_price_excl_vat": 285.33,
+            "total_price_excl_vat": 1141.32,
+            "vat_amount": 683.88
+        },
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 4,
+            "unit_price_excl_vat": 382.07,
+            "total_price_excl_vat": 1528.28,
+            "vat_amount": 1226.14
+        },
+        {
+            "product_name": "Dell UltraSharp U2419H",
+            "quantity": 3,
+            "unit_price_excl_vat": 93.13,
+            "total_price_excl_vat": 279.39,
+            "vat_amount": 54.65
+        }
+    ],
+    "subtotal": 2988.99,
+    "vat": 1965.5100000000002,
+    "total": 4954.5
+}

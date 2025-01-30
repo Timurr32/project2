@@ -1,0 +1,37 @@
+{
+    "invoice_id": "FACT-2017-150",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Schoolstraat 656",
+        "postcode": "7956 AC",
+        "stad": "Amsterdam",
+        "KVK-nummer": "33642056"
+    },
+    "invoice_date": "20-11-2021",
+    "products": [
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 3,
+            "unit_price_excl_vat": 252.37,
+            "total_price_excl_vat": 757.11,
+            "vat_amount": 401.27
+        },
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 5,
+            "unit_price_excl_vat": 198.88,
+            "total_price_excl_vat": 994.4,
+            "vat_amount": 415.26
+        },
+        {
+            "product_name": "Logitech gaming mouse G502 LIGHTSPEED",
+            "quantity": 2,
+            "unit_price_excl_vat": 467.36,
+            "total_price_excl_vat": 934.72,
+            "vat_amount": 917.43
+        }
+    ],
+    "subtotal": 2686.23,
+    "vat": 1733.96,
+    "total": 4420.1900000000005
+}

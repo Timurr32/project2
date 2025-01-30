@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2005-577",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Schoolstraat 556",
+        "postcode": "6176 AB",
+        "stad": "Rotterdam",
+        "KVK-nummer": "35411342"
+    },
+    "invoice_date": "14-08-2021",
+    "products": [
+        {
+            "product_name": "Dell UltraSharp U2419H",
+            "quantity": 1,
+            "unit_price_excl_vat": 238.39,
+            "total_price_excl_vat": 238.39,
+            "vat_amount": 119.34
+        },
+        {
+            "product_name": "Logitech gaming mouse G502",
+            "quantity": 5,
+            "unit_price_excl_vat": 162.19,
+            "total_price_excl_vat": 810.95,
+            "vat_amount": 276.21
+        },
+        {
+            "product_name": "HP EliteDisplay E223",
+            "quantity": 3,
+            "unit_price_excl_vat": 172.84,
+            "total_price_excl_vat": 518.52,
+            "vat_amount": 188.22
+        },
+        {
+            "product_name": "Dell UltraSharp U2719DC",
+            "quantity": 4,
+            "unit_price_excl_vat": 144.29,
+            "total_price_excl_vat": 577.16,
+            "vat_amount": 174.88
+        }
+    ],
+    "subtotal": 2145.02,
+    "vat": 758.65,
+    "total": 2903.67
+}

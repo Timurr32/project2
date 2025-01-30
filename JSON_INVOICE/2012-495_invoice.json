@@ -1,0 +1,37 @@
+{
+    "invoice_id": "FACT-2012-495",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Schoolstraat 924",
+        "postcode": "5168 AB",
+        "stad": "Utrecht",
+        "KVK-nummer": "92878031"
+    },
+    "invoice_date": "08-08-2021",
+    "products": [
+        {
+            "product_name": "Lenovo Thinkpad T15",
+            "quantity": 1,
+            "unit_price_excl_vat": 205.52,
+            "total_price_excl_vat": 205.52,
+            "vat_amount": 88.7
+        },
+        {
+            "product_name": "Razor gaming keyboard ULTIMATE",
+            "quantity": 3,
+            "unit_price_excl_vat": 452.75,
+            "total_price_excl_vat": 1358.25,
+            "vat_amount": 1291.42
+        },
+        {
+            "product_name": "MSI AERO 64G OC",
+            "quantity": 2,
+            "unit_price_excl_vat": 155.34,
+            "total_price_excl_vat": 310.68,
+            "vat_amount": 101.34
+        }
+    ],
+    "subtotal": 1874.45,
+    "vat": 1481.46,
+    "total": 3355.91
+}

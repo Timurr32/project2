@@ -1,0 +1,51 @@
+{
+    "invoice_id": "FACT-2014-277",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Kerkstraat 961",
+        "postcode": "4836 AC",
+        "stad": "Utrecht",
+        "KVK-nummer": "65301603"
+    },
+    "invoice_date": "08-04-2020",
+    "products": [
+        {
+            "product_name": "Razor gaming keyboard ULTIMATE",
+            "quantity": 5,
+            "unit_price_excl_vat": 349.92,
+            "total_price_excl_vat": 1749.6000000000001,
+            "vat_amount": 1285.61
+        },
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 5,
+            "unit_price_excl_vat": 453.8,
+            "total_price_excl_vat": 2269.0,
+            "vat_amount": 2162.36
+        },
+        {
+            "product_name": "Logitech gaming mouse G502 LIGHTSPEED",
+            "quantity": 3,
+            "unit_price_excl_vat": 22.05,
+            "total_price_excl_vat": 66.15,
+            "vat_amount": 3.06
+        },
+        {
+            "product_name": "Logitech gaming mouse G502",
+            "quantity": 5,
+            "unit_price_excl_vat": 209.48,
+            "total_price_excl_vat": 1047.3999999999999,
+            "vat_amount": 460.75
+        },
+        {
+            "product_name": "Logitech gaming mouse G502 LIGHTSPEED",
+            "quantity": 1,
+            "unit_price_excl_vat": 110.8,
+            "total_price_excl_vat": 110.8,
+            "vat_amount": 25.78
+        }
+    ],
+    "subtotal": 5242.950000000001,
+    "vat": 3937.5600000000004,
+    "total": 9180.510000000002
+}

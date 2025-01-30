@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2002-905",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Hoofdstraat 963",
+        "postcode": "7321 AC",
+        "stad": "Rotterdam",
+        "KVK-nummer": "75342873"
+    },
+    "invoice_date": "16-01-2023",
+    "products": [
+        {
+            "product_name": "Lenovo Thinkpad T15",
+            "quantity": 5,
+            "unit_price_excl_vat": 183.09,
+            "total_price_excl_vat": 915.45,
+            "vat_amount": 351.99
+        },
+        {
+            "product_name": "Lenovo Thinkpad T15",
+            "quantity": 1,
+            "unit_price_excl_vat": 128.84,
+            "total_price_excl_vat": 128.84,
+            "vat_amount": 34.86
+        },
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 5,
+            "unit_price_excl_vat": 386.34,
+            "total_price_excl_vat": 1931.6999999999998,
+            "vat_amount": 1567.19
+        },
+        {
+            "product_name": "Lenovo Thinkpad T14s",
+            "quantity": 4,
+            "unit_price_excl_vat": 68.63,
+            "total_price_excl_vat": 274.52,
+            "vat_amount": 39.56
+        }
+    ],
+    "subtotal": 3250.5099999999998,
+    "vat": 1993.6,
+    "total": 5244.11
+}

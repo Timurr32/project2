@@ -1,0 +1,51 @@
+{
+    "invoice_id": "FACT-2009-363",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Schoolstraat 300",
+        "postcode": "5726 AC",
+        "stad": "Rotterdam",
+        "KVK-nummer": "13999956"
+    },
+    "invoice_date": "24-06-2022",
+    "products": [
+        {
+            "product_name": "Dell UltraSharp U2719DC",
+            "quantity": 5,
+            "unit_price_excl_vat": 493.72,
+            "total_price_excl_vat": 2468.6000000000004,
+            "vat_amount": 2559.44
+        },
+        {
+            "product_name": "HP EliteDisplay E223",
+            "quantity": 5,
+            "unit_price_excl_vat": 256.3,
+            "total_price_excl_vat": 1281.5,
+            "vat_amount": 689.7
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 5,
+            "unit_price_excl_vat": 36.7,
+            "total_price_excl_vat": 183.5,
+            "vat_amount": 14.15
+        },
+        {
+            "product_name": "Dell UltraSharp U2419H",
+            "quantity": 5,
+            "unit_price_excl_vat": 238.46,
+            "total_price_excl_vat": 1192.3,
+            "vat_amount": 597.1
+        },
+        {
+            "product_name": "Dell UltraSharp U2719DC",
+            "quantity": 1,
+            "unit_price_excl_vat": 15.68,
+            "total_price_excl_vat": 15.68,
+            "vat_amount": 0.52
+        }
+    ],
+    "subtotal": 5141.580000000001,
+    "vat": 3860.9100000000003,
+    "total": 9002.490000000002
+}

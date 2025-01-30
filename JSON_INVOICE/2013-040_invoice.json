@@ -1,0 +1,30 @@
+{
+    "invoice_id": "FACT-2013-040",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Hoofdstraat 565",
+        "postcode": "5732 AB",
+        "stad": "Utrecht",
+        "KVK-nummer": "55894785"
+    },
+    "invoice_date": "19-09-2021",
+    "products": [
+        {
+            "product_name": "HP EliteDisplay E223",
+            "quantity": 4,
+            "unit_price_excl_vat": 232.21,
+            "total_price_excl_vat": 928.84,
+            "vat_amount": 452.9
+        },
+        {
+            "product_name": "Dell UltraSharp U2419H",
+            "quantity": 1,
+            "unit_price_excl_vat": 264.95,
+            "total_price_excl_vat": 264.95,
+            "vat_amount": 147.42
+        }
+    ],
+    "subtotal": 1193.79,
+    "vat": 600.3199999999999,
+    "total": 1794.11
+}

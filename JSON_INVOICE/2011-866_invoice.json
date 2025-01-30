@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2011-866",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Schoolstraat 421",
+        "postcode": "4376 AC",
+        "stad": "Utrecht",
+        "KVK-nummer": "93912185"
+    },
+    "invoice_date": "24-10-2022",
+    "products": [
+        {
+            "product_name": "HP EliteDisplay E223",
+            "quantity": 3,
+            "unit_price_excl_vat": 488.59,
+            "total_price_excl_vat": 1465.77,
+            "vat_amount": 1503.88
+        }
+    ],
+    "subtotal": 1465.77,
+    "vat": 1503.88,
+    "total": 2969.65
+}

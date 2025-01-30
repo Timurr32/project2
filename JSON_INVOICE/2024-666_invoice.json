@@ -1,0 +1,30 @@
+{
+    "invoice_id": "FACT-2024-666",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Hoofdstraat 108",
+        "postcode": "1589 AA",
+        "stad": "Amsterdam",
+        "KVK-nummer": "36821164"
+    },
+    "invoice_date": "14-06-2020",
+    "products": [
+        {
+            "product_name": "HP EliteDisplay E223",
+            "quantity": 4,
+            "unit_price_excl_vat": 170.89,
+            "total_price_excl_vat": 683.56,
+            "vat_amount": 245.33
+        },
+        {
+            "product_name": "Dell UltraSharp U2719DC",
+            "quantity": 3,
+            "unit_price_excl_vat": 220.77,
+            "total_price_excl_vat": 662.3100000000001,
+            "vat_amount": 307.05
+        }
+    ],
+    "subtotal": 1345.87,
+    "vat": 552.38,
+    "total": 1898.25
+}

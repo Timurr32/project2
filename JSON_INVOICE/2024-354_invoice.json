@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2024-354",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Kerkstraat 931",
+        "postcode": "5822 AA",
+        "stad": "Rotterdam",
+        "KVK-nummer": "96867842"
+    },
+    "invoice_date": "21-04-2021",
+    "products": [
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 5,
+            "unit_price_excl_vat": 13.28,
+            "total_price_excl_vat": 66.39999999999999,
+            "vat_amount": 1.85
+        }
+    ],
+    "subtotal": 66.39999999999999,
+    "vat": 1.85,
+    "total": 68.24999999999999
+}

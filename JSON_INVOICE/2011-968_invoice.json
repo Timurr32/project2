@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2011-968",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Hoofdstraat 273",
+        "postcode": "9658 AC",
+        "stad": "Utrecht",
+        "KVK-nummer": "16572699"
+    },
+    "invoice_date": "10-10-2021",
+    "products": [
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 2,
+            "unit_price_excl_vat": 282.66,
+            "total_price_excl_vat": 565.32,
+            "vat_amount": 335.57
+        },
+        {
+            "product_name": "Logitech gaming mouse G502 HERO",
+            "quantity": 5,
+            "unit_price_excl_vat": 188.91,
+            "total_price_excl_vat": 944.55,
+            "vat_amount": 374.7
+        },
+        {
+            "product_name": "Logitech gaming mouse G502",
+            "quantity": 3,
+            "unit_price_excl_vat": 451.45,
+            "total_price_excl_vat": 1354.35,
+            "vat_amount": 1283.92
+        },
+        {
+            "product_name": "HP EliteDisplay E243",
+            "quantity": 4,
+            "unit_price_excl_vat": 152.8,
+            "total_price_excl_vat": 611.2,
+            "vat_amount": 196.13
+        }
+    ],
+    "subtotal": 3475.42,
+    "vat": 2190.32,
+    "total": 5665.74
+}

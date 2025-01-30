@@ -1,0 +1,37 @@
+{
+    "invoice_id": "FACT-2013-284",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Hoofdstraat 125",
+        "postcode": "5034 AC",
+        "stad": "Utrecht",
+        "KVK-nummer": "22318958"
+    },
+    "invoice_date": "26-01-2023",
+    "products": [
+        {
+            "product_name": "Razor gaming keyboard ULTIMATE",
+            "quantity": 5,
+            "unit_price_excl_vat": 314.44,
+            "total_price_excl_vat": 1572.2,
+            "vat_amount": 1038.12
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 4,
+            "unit_price_excl_vat": 27.74,
+            "total_price_excl_vat": 110.96,
+            "vat_amount": 6.47
+        },
+        {
+            "product_name": "Logitech gaming mouse G502",
+            "quantity": 1,
+            "unit_price_excl_vat": 274.69,
+            "total_price_excl_vat": 274.69,
+            "vat_amount": 158.44
+        }
+    ],
+    "subtotal": 1957.8500000000001,
+    "vat": 1203.03,
+    "total": 3160.88
+}

@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2001-567",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Kerkstraat 579",
+        "postcode": "7866 AB",
+        "stad": "Amsterdam",
+        "KVK-nummer": "20271503"
+    },
+    "invoice_date": "15-05-2023",
+    "products": [
+        {
+            "product_name": "HP EliteDisplay E233",
+            "quantity": 1,
+            "unit_price_excl_vat": 155.33,
+            "total_price_excl_vat": 155.33,
+            "vat_amount": 50.67
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 5,
+            "unit_price_excl_vat": 37.27,
+            "total_price_excl_vat": 186.35000000000002,
+            "vat_amount": 14.59
+        },
+        {
+            "product_name": "Logitech gaming mouse G502 LIGHTSPEED",
+            "quantity": 1,
+            "unit_price_excl_vat": 187.94,
+            "total_price_excl_vat": 187.94,
+            "vat_amount": 74.18
+        },
+        {
+            "product_name": "MSI AERO 64G OC",
+            "quantity": 3,
+            "unit_price_excl_vat": 327.06,
+            "total_price_excl_vat": 981.1800000000001,
+            "vat_amount": 673.87
+        }
+    ],
+    "subtotal": 1510.8000000000002,
+    "vat": 813.31,
+    "total": 2324.11
+}

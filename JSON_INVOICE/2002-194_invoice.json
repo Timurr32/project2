@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2002-194",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Schoolstraat 282",
+        "postcode": "9263 AC",
+        "stad": "Amsterdam",
+        "KVK-nummer": "17236419"
+    },
+    "invoice_date": "16-03-2022",
+    "products": [
+        {
+            "product_name": "HP EliteDisplay E223",
+            "quantity": 3,
+            "unit_price_excl_vat": 178.74,
+            "total_price_excl_vat": 536.22,
+            "vat_amount": 201.3
+        },
+        {
+            "product_name": "HP EliteDisplay E243",
+            "quantity": 4,
+            "unit_price_excl_vat": 352.63,
+            "total_price_excl_vat": 1410.52,
+            "vat_amount": 1044.49
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 4,
+            "unit_price_excl_vat": 359.03,
+            "total_price_excl_vat": 1436.12,
+            "vat_amount": 1082.83
+        },
+        {
+            "product_name": "Razor gaming keyboard ULTIMATE",
+            "quantity": 1,
+            "unit_price_excl_vat": 174.17,
+            "total_price_excl_vat": 174.17,
+            "vat_amount": 63.71
+        }
+    ],
+    "subtotal": 3557.0299999999997,
+    "vat": 2392.33,
+    "total": 5949.36
+}

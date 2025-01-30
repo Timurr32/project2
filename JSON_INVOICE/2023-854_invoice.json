@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2023-854",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Schoolstraat 718",
+        "postcode": "4170 AA",
+        "stad": "Amsterdam",
+        "KVK-nummer": "24981858"
+    },
+    "invoice_date": "01-03-2020",
+    "products": [
+        {
+            "product_name": "Razor gaming keyboard ULTIMATE",
+            "quantity": 2,
+            "unit_price_excl_vat": 456.13,
+            "total_price_excl_vat": 912.26,
+            "vat_amount": 873.85
+        }
+    ],
+    "subtotal": 912.26,
+    "vat": 873.85,
+    "total": 1786.1100000000001
+}

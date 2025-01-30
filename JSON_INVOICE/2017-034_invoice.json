@@ -1,0 +1,51 @@
+{
+    "invoice_id": "FACT-2017-034",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Hoofdstraat 274",
+        "postcode": "7334 AC",
+        "stad": "Rotterdam",
+        "KVK-nummer": "51257132"
+    },
+    "invoice_date": "03-07-2024",
+    "products": [
+        {
+            "product_name": "Razor gaming keyboard ULTIMATE",
+            "quantity": 3,
+            "unit_price_excl_vat": 110.5,
+            "total_price_excl_vat": 331.5,
+            "vat_amount": 76.91
+        },
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 5,
+            "unit_price_excl_vat": 309.2,
+            "total_price_excl_vat": 1546.0,
+            "vat_amount": 1003.82
+        },
+        {
+            "product_name": "HP EliteDisplay E233",
+            "quantity": 1,
+            "unit_price_excl_vat": 198.96,
+            "total_price_excl_vat": 198.96,
+            "vat_amount": 83.13
+        },
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 1,
+            "unit_price_excl_vat": 404.34,
+            "total_price_excl_vat": 404.34,
+            "vat_amount": 343.33
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 1,
+            "unit_price_excl_vat": 103.85,
+            "total_price_excl_vat": 103.85,
+            "vat_amount": 22.65
+        }
+    ],
+    "subtotal": 2584.65,
+    "vat": 1529.8400000000001,
+    "total": 4114.49
+}

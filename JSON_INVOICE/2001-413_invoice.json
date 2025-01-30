@@ -1,0 +1,51 @@
+{
+    "invoice_id": "FACT-2001-413",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Hoofdstraat 720",
+        "postcode": "1012 AC",
+        "stad": "Amsterdam",
+        "KVK-nummer": "27000454"
+    },
+    "invoice_date": "27-07-2022",
+    "products": [
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 2,
+            "unit_price_excl_vat": 430.88,
+            "total_price_excl_vat": 861.76,
+            "vat_amount": 779.72
+        },
+        {
+            "product_name": "HP EliteDisplay E233",
+            "quantity": 2,
+            "unit_price_excl_vat": 393.38,
+            "total_price_excl_vat": 786.76,
+            "vat_amount": 649.94
+        },
+        {
+            "product_name": "Lenovo Thinkpad T14",
+            "quantity": 5,
+            "unit_price_excl_vat": 357.91,
+            "total_price_excl_vat": 1789.5500000000002,
+            "vat_amount": 1345.03
+        },
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 1,
+            "unit_price_excl_vat": 181.63,
+            "total_price_excl_vat": 181.63,
+            "vat_amount": 69.27
+        },
+        {
+            "product_name": "MSI AERO 16G OC",
+            "quantity": 2,
+            "unit_price_excl_vat": 210.81,
+            "total_price_excl_vat": 421.62,
+            "vat_amount": 186.65
+        }
+    ],
+    "subtotal": 4041.32,
+    "vat": 3030.61,
+    "total": 7071.93
+}

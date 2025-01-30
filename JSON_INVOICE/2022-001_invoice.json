@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2022-001",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Schoolstraat 457",
+        "postcode": "8026 AB",
+        "stad": "Rotterdam",
+        "KVK-nummer": "52713765"
+    },
+    "invoice_date": "16-12-2023",
+    "products": [
+        {
+            "product_name": "Dell UltraSharp U2419H",
+            "quantity": 1,
+            "unit_price_excl_vat": 112.35,
+            "total_price_excl_vat": 112.35,
+            "vat_amount": 26.5
+        },
+        {
+            "product_name": "Dell UltraSharp U2419H",
+            "quantity": 3,
+            "unit_price_excl_vat": 426.48,
+            "total_price_excl_vat": 1279.44,
+            "vat_amount": 1145.87
+        },
+        {
+            "product_name": "Logitech gaming mouse G502",
+            "quantity": 3,
+            "unit_price_excl_vat": 29.8,
+            "total_price_excl_vat": 89.4,
+            "vat_amount": 5.6
+        },
+        {
+            "product_name": "Logitech gaming mouse G502",
+            "quantity": 2,
+            "unit_price_excl_vat": 156.2,
+            "total_price_excl_vat": 312.4,
+            "vat_amount": 102.47
+        }
+    ],
+    "subtotal": 1793.5900000000001,
+    "vat": 1280.4399999999998,
+    "total": 3074.0299999999997
+}

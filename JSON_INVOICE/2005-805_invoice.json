@@ -1,0 +1,30 @@
+{
+    "invoice_id": "FACT-2005-805",
+    "customer": {
+        "naam": "PC Saturnus B.V.",
+        "adres": "Schoolstraat 534",
+        "postcode": "4275 AC",
+        "stad": "Utrecht",
+        "KVK-nummer": "79217289"
+    },
+    "invoice_date": "10-12-2020",
+    "products": [
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 3,
+            "unit_price_excl_vat": 141.85,
+            "total_price_excl_vat": 425.54999999999995,
+            "vat_amount": 126.77
+        },
+        {
+            "product_name": "Dell UltraSharp U2419H",
+            "quantity": 3,
+            "unit_price_excl_vat": 100.78,
+            "total_price_excl_vat": 302.34000000000003,
+            "vat_amount": 63.98
+        }
+    ],
+    "subtotal": 727.89,
+    "vat": 190.75,
+    "total": 918.64
+}

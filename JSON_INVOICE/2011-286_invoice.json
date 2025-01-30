@@ -1,0 +1,37 @@
+{
+    "invoice_id": "FACT-2011-286",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Schoolstraat 992",
+        "postcode": "1159 AC",
+        "stad": "Utrecht",
+        "KVK-nummer": "74942066"
+    },
+    "invoice_date": "07-08-2020",
+    "products": [
+        {
+            "product_name": "Logitech gaming mouse G502 HERO",
+            "quantity": 2,
+            "unit_price_excl_vat": 275.39,
+            "total_price_excl_vat": 550.78,
+            "vat_amount": 318.52
+        },
+        {
+            "product_name": "HP EliteDisplay E223",
+            "quantity": 2,
+            "unit_price_excl_vat": 43.77,
+            "total_price_excl_vat": 87.54,
+            "vat_amount": 8.04
+        },
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 5,
+            "unit_price_excl_vat": 472.51,
+            "total_price_excl_vat": 2362.55,
+            "vat_amount": 2344.36
+        }
+    ],
+    "subtotal": 3000.87,
+    "vat": 2670.92,
+    "total": 5671.79
+}

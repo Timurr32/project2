@@ -1,0 +1,44 @@
+{
+    "invoice_id": "FACT-2013-219",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Hoofdstraat 228",
+        "postcode": "5750 AA",
+        "stad": "Utrecht",
+        "KVK-nummer": "65741073"
+    },
+    "invoice_date": "25-08-2021",
+    "products": [
+        {
+            "product_name": "Razor gaming keyboard",
+            "quantity": 2,
+            "unit_price_excl_vat": 371.08,
+            "total_price_excl_vat": 742.16,
+            "vat_amount": 578.37
+        },
+        {
+            "product_name": "Dell UltraSharp U2719DC",
+            "quantity": 2,
+            "unit_price_excl_vat": 320.15,
+            "total_price_excl_vat": 640.3,
+            "vat_amount": 430.47
+        },
+        {
+            "product_name": "Razor gaming keyboard ULTIMATE",
+            "quantity": 4,
+            "unit_price_excl_vat": 459.84,
+            "total_price_excl_vat": 1839.36,
+            "vat_amount": 1776.27
+        },
+        {
+            "product_name": "Razor gaming keyboard PRO",
+            "quantity": 3,
+            "unit_price_excl_vat": 419.47,
+            "total_price_excl_vat": 1258.41,
+            "vat_amount": 1108.53
+        }
+    ],
+    "subtotal": 4480.23,
+    "vat": 3893.6400000000003,
+    "total": 8373.869999999999
+}

@@ -1,0 +1,23 @@
+{
+    "invoice_id": "FACT-2018-011",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Kerkstraat 512",
+        "postcode": "3189 AB",
+        "stad": "Amsterdam",
+        "KVK-nummer": "96354230"
+    },
+    "invoice_date": "07-06-2020",
+    "products": [
+        {
+            "product_name": "Lenovo Thinkpad T15",
+            "quantity": 1,
+            "unit_price_excl_vat": 404.94,
+            "total_price_excl_vat": 404.94,
+            "vat_amount": 344.36
+        }
+    ],
+    "subtotal": 404.94,
+    "vat": 344.36,
+    "total": 749.3
+}

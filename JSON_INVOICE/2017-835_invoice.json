@@ -1,0 +1,37 @@
+{
+    "invoice_id": "FACT-2017-835",
+    "customer": {
+        "naam": "PC Jupiter B.V.",
+        "adres": "Schoolstraat 482",
+        "postcode": "5695 AA",
+        "stad": "Amsterdam",
+        "KVK-nummer": "50154437"
+    },
+    "invoice_date": "17-05-2021",
+    "products": [
+        {
+            "product_name": "Lenovo Thinkpad T14s",
+            "quantity": 5,
+            "unit_price_excl_vat": 472.33,
+            "total_price_excl_vat": 2361.65,
+            "vat_amount": 2342.52
+        },
+        {
+            "product_name": "HP EliteDisplay E233",
+            "quantity": 5,
+            "unit_price_excl_vat": 473.39,
+            "total_price_excl_vat": 2366.95,
+            "vat_amount": 2352.98
+        },
+        {
+            "product_name": "Logitech gaming mouse G502 LIGHTSPEED",
+            "quantity": 1,
+            "unit_price_excl_vat": 363.27,
+            "total_price_excl_vat": 363.27,
+            "vat_amount": 277.14
+        }
+    ],
+    "subtotal": 5091.870000000001,
+    "vat": 4972.64,
+    "total": 10064.510000000002
+}

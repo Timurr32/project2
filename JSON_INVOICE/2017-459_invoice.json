@@ -1,0 +1,51 @@
+{
+    "invoice_id": "FACT-2017-459",
+    "customer": {
+        "naam": "PC Sputnik B.V.",
+        "adres": "Kerkstraat 918",
+        "postcode": "2208 AC",
+        "stad": "Utrecht",
+        "KVK-nummer": "26276219"
+    },
+    "invoice_date": "27-10-2022",
+    "products": [
+        {
+            "product_name": "HP EliteDisplay E233",
+            "quantity": 2,
+            "unit_price_excl_vat": 250.63,
+            "total_price_excl_vat": 501.26,
+            "vat_amount": 263.81
+        },
+        {
+            "product_name": "HP EliteDisplay E233",
+            "quantity": 5,
+            "unit_price_excl_vat": 177.11,
+            "total_price_excl_vat": 885.5500000000001,
+            "vat_amount": 329.34
+        },
+        {
+            "product_name": "MSI AERO 8G OC",
+            "quantity": 5,
+            "unit_price_excl_vat": 258.48,
+            "total_price_excl_vat": 1292.4,
+            "vat_amount": 701.51
+        },
+        {
+            "product_name": "Dell UltraSharp U2719D",
+            "quantity": 1,
+            "unit_price_excl_vat": 223.46,
+            "total_price_excl_vat": 223.46,
+            "vat_amount": 104.87
+        },
+        {
+            "product_name": "Dell UltraSharp U2719DC",
+            "quantity": 2,
+            "unit_price_excl_vat": 192.16,
+            "total_price_excl_vat": 384.32,
+            "vat_amount": 155.07
+        }
+    ],
+    "subtotal": 3286.9900000000002,
+    "vat": 1554.5999999999997,
+    "total": 4841.59
+}
